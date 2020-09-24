@@ -1,0 +1,11 @@
+Query: "https://api.twitter.com/2/tweets/search/recent?query=apple%20lang:en&start_time=2020-09-21T00:00:00Z&end_time=2020-09-22T00:00:00Z&max_results=10&tweet.fields=lang,created_at"
+
+parameters:
+    start_time=yyyy-mm-ddthh:mm:ssz
+    end_time=yyyy-mm-ddthh:mm:ssz
+    max_results=10
+    lang="en"
+    organic_metrics?
+
+query:
+    {company}
