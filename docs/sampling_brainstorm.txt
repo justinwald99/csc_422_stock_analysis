@@ -1,0 +1,24 @@
+Monthly query limits:
+50 full-archive requests,
+5000 total tweets
+(100 tweets / request)
+
+Problem: Random sampling may give us data from a time period of relatively little price movement.
+* Though a lot of sentiment could prove that a stock doesn't respond during this period.
+Basically do we want to identify stock price as a result of sentiment, or sentiment not indicating
+change in stock price?
+
+Solution: Stratified sampling
+Identify periods of signifigant movement in stock price, sample periods before
+these dates.
+
+Problem: There are many tweets, and a pull at any given time will result in tweets from
+basically that exact time (probably within a minute).
+
+Solution: Control for this by testing at a set time (week granularity) (maybe wednesday at 5:00pm EST?)
+
+How many pulls / company?
+We have 5x the queries available for the past 30 days.
+10 / company at select times? 5 for positive trends 5 for negative?
+
+*Separate test for finer granularity (leveraging past-30 day info)?
