@@ -22,3 +22,8 @@ We have 5x the queries available for the past 30 days.
 10 / company at select times? 5 for positive trends 5 for negative?
 
 *Separate test for finer granularity (leveraging past-30 day info)?
+
+3 Strata:
+    - stock up (+10% last week)
+    - stock down (-10% last week)
+    - no movement (< 10%+- last week)

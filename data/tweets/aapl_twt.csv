@@ -1,11 +1,901 @@
-id,date,tweet
-0,2020-09-20T23:59:59.000Z,"@formiidophobia me with apple pie 🥴"
-1,2020-09-20T23:59:58.000Z,"RT @ZAKtalksTECH: ⚠️TONIGHT! (9/20)⚠️ Pixel 4a Impressions | Galaxy S20 FE | LG Wing | Apple 💥 ZtT Weekly Livestream ⏰ 8:45pm EST (NEW T…"
-2,2020-09-20T23:59:58.000Z,"RT @evernote: @arneethling @jamesketchell The new Evernote for iOS is available everywhere! If you have automatic updates on and you're not…"
-3,2020-09-20T23:59:58.000Z,"RT @LittleMix: You can pre-add Confetti now on @AppleMusic now and you'll be the first to hear it when it's released 💕🎉 https://t.co/TJj8Bh…"
-4,2020-09-20T23:59:58.000Z,"@peony_drops its 2020 apple making us WAIT for a shortcut to work 😭😭"
-5,2020-09-20T23:59:57.000Z,"@Apple If I block someone's shit it doesn't mean I want to see their messages pop up on my laptop either bro"
-6,2020-09-20T23:59:56.000Z,"RT @duty2warn: A swarm of blathering locusts has descended on our Apple/iTunes page for #UNFIT. They left poor (and poorly spelled) reviews…"
-7,2020-09-20T23:59:56.000Z,"Who can I follow on Apple Music??  I really wish that platform was bigger"
-8,2020-09-20T23:59:55.000Z,"https://t.co/cmiKjtF37g @RicoBandz17 Unleash out now on all streaming platforms! 💪🏽‼️"
-9,2020-09-20T23:59:55.000Z,"RT @TheLeoTerrell: I considered myself an intelligence person. Honestly I do not have a clue what this "left wing" extremist is talking abo…"
+id,date,class,percent,text
+0,2009-03-09T17:00:00,increase,0.25,@chrisbrogan A netbook from Apple would be amazing; could be the Apple entry point as should be priced much lower...
+1,2009-03-09T17:00:00,increase,0.25,"@HolisticMamma I am a fan of apple, carrot, ginger smoothies. Never tried Italian Parsley. Sounds good."
+2,2009-03-09T17:00:00,increase,0.25,Praying for a few people who are going through a hard time. Heading to apple.
+3,2009-03-09T17:00:00,increase,0.25,@marieforleo Definitely. Girls day in the big apple is right up my alley. Need to go shopping!
+4,2009-03-09T17:00:00,increase,0.25,i'm drinking sparkling apple cider from a cup with monsters on it and listening to random things on pandora. thinking about going driving.
+5,2009-03-09T17:00:00,increase,0.25,@human3rror  I really like Apple Mail... especially how interfaces wtih iCal and Address book... much easier
+6,2009-03-09T17:00:00,increase,0.25,@cmeid Thanks for the #ergo #sum recommendation. They changed the RAM and will do the handling with Apple later.
+7,2009-03-09T17:00:00,increase,0.25,"Safari 4 trashed my system!! What the fuck, apple?!?"
+8,2009-03-09T17:00:00,increase,0.25,"apple snow leopard may drop on june 8th, best I hold off on a hackintosh a bit"
+9,2009-03-09T17:00:00,increase,0.25,"@bradleybenson Ha, I forgot you drank the Cupertino Coolaid. It is never easy in less you do it ""The Apple Way!"""
+10,2009-03-09T17:00:00,increase,0.25,"@melacey That is what Apple store says, personally I can not see it."
+11,2009-03-09T17:00:00,increase,0.25,"I am amazed how many iPhone cases we still sell for the original 1st generation apple cell phone, pink, blue, black and clear still selling"
+12,2009-03-09T17:00:00,increase,0.25,Boxer rebellion in apple store tonight! 1 of 50 on guest list. Excited!
+13,2009-03-09T17:00:00,increase,0.25,@adamcoupe it took 4 years of rumors for Apple to release the iPhone. Wonder how long will it take this time around.
+14,2009-03-09T17:00:00,increase,0.25,@Pumatrax an apple and aqua for me.
+15,2009-03-09T17:00:00,increase,0.25,@john_swaggerdap u seriously became one of them Apple stan evangelists on us. smh.
+16,2009-03-09T17:00:00,increase,0.25,"Todays Green Smoothie: Italian Flat Leaf Parsley, Cabbage, Water 40% to 60% Strawberries, orange, apple, pear, banana + spirulina =)"
+17,2009-03-09T17:00:00,increase,0.25,Dear Apple: please add functionality to iTunes to let me more easily rearrange my app icons. thx.
+18,2009-03-09T17:00:00,increase,0.25,"@chrisbrogan I would so love an Apple netbook, or an oversized iPod touch I guess ;)"
+19,2009-03-09T17:00:00,increase,0.25,looking forward to 5pm when i can run out the door...i never ate that red apple =\ ooops
+20,2009-03-09T17:00:00,increase,0.25,@rje7 it's apple they can do a lot that people won't expect
+21,2009-03-09T17:00:00,increase,0.25,"The teachers I spoke with have a new Apple server, but can't use it for anything but intraweb.  They use wikispaces, other free sites."
+22,2009-03-09T17:00:00,increase,0.25,today's the day to get yesterday's mac. apple's making room for their new hardware with unadvertised fire sales on older machines.
+23,2009-03-09T17:00:00,increase,0.25,But before i rock the apple store i gotta hit up jamba juice cuz it tastes good after runnin 2 miles
+24,2009-03-09T17:00:00,increase,0.25,3rd day in a row I've been at the apple store. ihatemyipod
+25,2009-03-09T17:00:00,increase,0.25,"@mrubioc Please, oh Apple, hear the plea for mercy from your serfs!"
+26,2009-03-09T17:00:00,increase,0.25,Would have been nice if Apple allows Firmware updates using P2P softwares. Still brooding on my slow EDGE's inability to upgrade beyond 2.0
+27,2009-03-09T17:00:00,increase,0.25,partied at Apple in Hollywood sat... If you like really rich blond chicks it's a great place.  they had good Dj's though.
+28,2009-03-09T17:00:00,increase,0.25,- transition to Apple completed - no more PC on my desks
+29,2009-03-09T17:00:00,increase,0.25,"@Dan_Christensen First  you are a fruitest.  Some of my best trees are apple, 2nd, you raised my blood pressure, 3rd what a thrill ride."
+30,2009-03-09T17:00:00,increase,0.25,@kinaj Make an apple/automator script for it ^^
+31,2009-03-09T17:00:00,increase,0.25,Rumor for the Apple Netbook again.  Do you think it's real?
+32,2009-03-09T17:00:00,increase,0.25,"Lunch Bell: Turkey Sandwich, apple, baked lays, water.  6/10"
+33,2009-03-09T17:00:00,increase,0.25,"watched The Dark Knight last evening. (tried reading but Obj-C book was zzzz)  great movie. watched in HD, 60"" screen via Apple TV."
+34,2009-03-09T17:00:00,increase,0.25,"bye apple mail, helloooo thunderbird!"
+35,2009-03-09T17:00:00,increase,0.25,RT @mike_gordon Ridin in van with a beet celery carrot apple ginger blueberry raspberry juice
+36,2009-03-09T17:00:00,increase,0.25,Apple to make NetBooks? I wonder how they would come out with a low price?
+37,2009-03-09T17:00:00,increase,0.25,There seems to be a strong correlation between Ducati owners and Apple computer owners or the other way around no?
+38,2009-03-09T17:00:00,increase,0.25,"Slow start to the morning, but I have a coffee IV running hardcore.  Fingers crossed that Apple will drop this ""reported"" netbook in q3."
+39,2009-03-09T17:00:00,increase,0.25,"dear apple, if I buy the phone, how is it illegal if I dont want to be locked in to you? I can't pirate myself can I?"
+40,2009-03-09T17:00:00,increase,0.25,"In the mood for gooey, crunchy, warm apple crumble with vanilla cream"
+41,2009-03-09T17:00:00,increase,0.25,Just uploaded Tap Memory to the app store. Waiting for review from Apple.
+42,2009-03-09T17:00:00,increase,0.25,heading to chapel... then to the Apple Store
+43,2009-03-09T17:00:00,increase,0.25,"good morning, apple jacks and work"
+44,2009-03-09T17:00:00,increase,0.25,"There is a small fly on my screen, which is proving to be decidedly distracting,think it is gorging on the apple juice which sprayed earlier"
+45,2009-03-09T17:00:00,increase,0.25,back from the apple store. new iphone in hand. life is good again
+46,2009-03-09T17:00:00,increase,0.25,I washed his ipod. It doesn't work anymore and I am so sorry. He's taking it to the Apple store.
+47,2009-03-09T17:00:00,increase,0.25,@Lee5 So what kind of bags will Apple give you? Paper? No bag?
+48,2009-03-09T17:00:00,increase,0.25,"I wish that I could click on a artist's name in iTunes & be taken to my collection of them, not Apple's."
+49,2009-03-09T17:00:00,increase,0.25,Apple Netbook soon. Hmmm
+50,2009-03-09T17:00:00,increase,0.25,"Very disappointed to discover that Raymarine CPU will NOT drive my cool Apple 20"" monitor :(   Nerdvana 2 now getting a less-cool LG monitor"
+51,2009-03-09T17:00:00,increase,0.25,"I'm up, eating mangos and apple juice"
+52,2009-03-09T17:00:00,increase,0.25,Back from checking out the different Apple laptops! What to do?!
+53,2009-03-09T17:00:00,increase,0.25,there's a beautiful new iphone 3G sitting on my desk but nay it won't work... i have to send it back to apple and wait 2 weeks for a repair!
+54,2009-03-09T17:00:00,increase,0.25,"If the sun is shining, get out in it!  Healing for mental health, especially the blues. Gorgeous in NC :). Heading out with my Apple!"
+55,2009-03-09T17:00:00,increase,0.25,"@human3rror What have you been using? I swear by Apple Mail, especially with Data Detectors into iCal and LDAP support."
+56,2009-03-09T17:00:00,increase,0.25,ew pitchfork apple add is nasty isnt it
+57,2009-03-09T17:00:00,increase,0.25,in apple store on a fancy macbook i want one now!!
+58,2009-03-09T17:00:00,increase,0.25,"I've already eaten my apple, my cookie, AND my sandwich, and it's not even 11AM yet."
+59,2009-03-09T17:00:00,increase,0.25,"@sjhooray Apple works, seryoso!!!!"
+60,2009-03-09T17:00:00,increase,0.25,"@human3rror   Apple Mail - all email is attached to your account - beware, if you delete account later, all mail will be deleted!"
+61,2009-03-09T17:00:00,increase,0.25,"Thanks @mr_apple (you do so many interesting things), @alexgamela (do you have pics of Portugal?),  @Sleuthy (I like your Twitter name!)"
+62,2009-03-09T17:00:00,increase,0.25,"bagel and an apple for lunch. Really wanted to wolf down a chocolate croquante, but told myself no!"
+63,2009-03-09T17:00:00,increase,0.25,At apple store :-)
+64,2009-03-09T17:00:00,increase,0.25,Starting to snow outside... will skip the Apple Store trip today.
+65,2009-03-09T17:00:00,increase,0.25,@CatherineAD Every song Fiona Apple has published can be an anthem at one point or another.  She's brilliant.
+66,2009-03-09T17:00:00,increase,0.25,"@Ihnatko when Apple changes standards, they should include a cable: like, say mini DVI and FW 800."
+67,2009-03-09T17:00:00,increase,0.25,Does anyone know how to connect an Apple TV to a TV without using HDMI  ?  DVI ok for video but for the sound ?
+68,2009-03-09T17:00:00,increase,0.25,"@stevepavlina I dont know if you can - rent one maybe? Apple does 14 day returns, but not 30 day, and the staff have zero power to negotiate"
+69,2009-03-09T17:00:00,increase,0.25,Apple are being IDIOTS! and charging me £30 to get a new phone sent out to me when its there fault its broken :(
+70,2009-03-09T17:00:00,increase,0.25,Keys to starting an Apple rumor: 1) Make something up 2) Talk about it incessantly 3) find someone who makes prototype graphics 4) post it!
+71,2009-03-09T17:00:00,increase,0.25,"loving a plate of avocado, apple and soaked almonds. I love foods alphafoods."
+72,2009-03-09T17:00:00,increase,0.25,"mmm: apple-grape-kiwi-cucumber-parsley-ginger juice, post yoga."
+73,2009-03-09T17:00:00,increase,0.25,"How belong before we see Apple's Kindle killer? iPhone form factor, but just bigger?"
+74,2009-03-09T17:00:00,increase,0.25,Today's anthem: 'Oh Well' by Fiona Apple. Never has a song been so apt. Actually I think if I was a country it would be my National Anthem.
+75,2009-03-09T17:00:00,increase,0.25,Google is down below $300 and Baidu is holding its own. Apple around 85
+76,2009-03-09T17:00:00,increase,0.25,@Snookster An apple themed weekend then? Mine was also fantabulous
+77,2009-03-09T17:00:00,increase,0.25,Nokia opens mobile app arms race vs. Apple - ZDNet: Nokia opens mobile app arms race vs. AppleZDNetNokia is coming out swinging against A..
+78,2009-03-09T17:00:00,increase,0.25,trying to work out how to sync outlook to google to Apple to iphone...
+79,2009-03-09T17:00:00,increase,0.25,"With Linux (incl. Android) on the low end, Apple on high end, M$ will be feeling the squeeze play."
+80,2009-03-09T17:00:00,increase,0.25,"found an apple cinnamon muffin -- ruining my dinner, probably"
+81,2009-03-09T17:00:00,increase,0.25,"RT @human3rror: slowly moving stuff into apple mail... is apple mail really that good? // I use it, but don't like the sorting features much"
+82,2009-03-09T17:00:00,increase,0.25,@lilyroseallen hmmm sounds good? What's the crunchy part? Nuts or more of a Apple crunch type?
+83,2009-03-09T17:00:00,increase,0.25,"@cubanpastor Being a new Mac user...If I were you, I'd go for the Double Apple"
+84,2009-03-09T17:00:00,increase,0.25,"Hey PC users, If hardware manufacturers shipped stickers with their PC's,  would you slap them on your cars? Or is that uniquely Apple love?"
+85,2009-03-09T17:00:00,increase,0.25,@Schofe Can I help schofe? I am a mac genius at an apple store
+86,2009-03-09T17:00:00,increase,0.25,"@bagombo David & I still mostly wear Apple retail shirts, since that is the majority of our wardrobe!"
+87,2009-03-09T17:00:00,increase,0.25,Loving the Apple Remote app for iPod Touch - I'm changing tracks every 20 seconds just for the hell of it!
+88,2009-03-09T17:00:00,increase,0.25,Problem may well have been Bluetooth as it has now disappeared from my MacBook Pro! Lots of posts on this problem on Apple  forum.
+89,2009-03-09T17:00:00,increase,0.25,@O2UKOfficial Ok thanks. Don't think Apple will say anything though :(
+90,2009-03-09T17:00:00,increase,0.25,@kooljaek check out non-apple places to fix it. they charge you less. I'm surprised apple didn't offer you a refurb replacement
+91,2009-03-09T17:00:00,increase,0.25,Still waiting at the apple store. Just thinking I need to get me a Dr. Who coat while I'm here.
+92,2009-03-09T17:00:00,increase,0.25,Big queue in the Apple Store. Several people buying the same adaptor as me.
+93,2009-03-09T17:00:00,increase,0.25,#flylady @flyingwithkids Love your blog too! Will definitely try out y recipes starting with apple bread (tho I had to 'google' Oleo! LOL)
+94,2009-03-09T17:00:00,increase,0.25,So I can read a .xls file on my iPhone but not a Numbers file. APPLE WTF!!!?
+95,2009-03-09T17:00:00,increase,0.25,"@nielskob ya, Apple should finally provide promo codes for non-US! Those bugs with 2 mixed iTunes accounts are not funny :-("
+96,2009-03-09T17:00:00,increase,0.25,Been using Kindle 2 for a week now. Great for reading. Love it. cons- poor navigation and wireless connectivity. Would Apple to take a shot.
+97,2009-03-09T17:00:00,increase,0.25,"@chrisanewman First time I've been asked in a while but no, no news I'm afraid. Perhaps try Apple?"
+98,2009-03-09T17:00:00,increase,0.25,"lithium monitors apple xsan, servers, clients, and windows too. trying it for the first time. expectation is high"
+99,2009-03-09T17:00:00,increase,0.25,"@TheFirstStrike Poor apple.  I have meds for when I get migraines I could send your way, lol."
+100,2009-01-20T17:00:00,increase,0.2,"says, ""hey apple ... make it possible for two people to run itunes on the same windows pc at the same time; this is 2009 after all"""
+101,2009-01-20T17:00:00,increase,0.2,"Sitting on the floor of Cpb lobby eating apple pie, watching history happen"
+102,2009-01-20T17:00:00,increase,0.2,"During ""My Country Tis of Thee"" the only thing more patriotic I could ask for is a Bald Eagle humping an Apple Pie shaped like the USA"
+103,2009-01-20T17:00:00,increase,0.2,"CNN on the big screen at work. Apple pie in Boulder, hot dogs in Miami."
+104,2009-01-20T17:00:00,increase,0.2,hmmm delicious apple
+105,2009-01-20T17:00:00,increase,0.2,"Seems to be a presentation about innovation, using Apple as an example. So far nothing on banking. #FFZ"
+106,2009-01-20T17:00:00,increase,0.2,"Breakfast: hoy hoy, ham eggs, apple"
+107,2009-01-20T17:00:00,increase,0.2,Steve Jobs	Apple	Chief Executive
+108,2009-01-20T17:00:00,increase,0.2,"loves baseball, apple pie, and a President she can believe in."
+109,2009-01-20T17:00:00,increase,0.2,I feel like the only one not invited to the party after seeing all the inaug. coverage on the μblogs today. (goes to fashion golden apple)
+110,2009-01-20T17:00:00,increase,0.2,"Feeling hungry in the Big Apple. Walked three blocks to the Sun office this morning, past the Chrysler building and Grand Central station"
+111,2009-01-20T17:00:00,increase,0.2,Watching the inauguration at the apple store on boylston
+112,2009-01-20T17:00:00,increase,0.2,"everyone at the apple store, turn on the appletv  tv and watch this!"
+113,2009-01-20T17:00:00,increase,0.2,My Happy Inaguration Day apple tastes like sweet change!
+114,2009-01-20T17:00:00,increase,0.2,17 of us watching it together complete with potluck goodies. We have paper cups of sparkling apple juice ready to toast President Obama. :)
+115,2009-01-20T17:00:00,increase,0.2,@THErealDVORAK You mean a MacTalk voice?  Apple should tap that.
+116,2009-01-20T17:00:00,increase,0.2,@nosugrefneb I'm no apple genius.... but with the many crashes you have....
+117,2009-01-20T17:00:00,increase,0.2,@weathergrrrl I didn't do anything this morning but read some BBC news. No idea. Maybe Apple wired OS X to do it automatically.
+118,2009-01-20T17:00:00,increase,0.2,"They keep calling it the ""National Mall,"" but I don't see an Orange Julius or Spencer Gifts, let alone an Apple Store or Sunglass Hut."
+119,2009-01-20T17:00:00,increase,0.2,@obruchez Where is closest Apple store from Lausanne? Would they be faster than that?
+120,2009-01-20T17:00:00,increase,0.2,Ate 2 cinnamon rolls and chocolate milk for breakfast... went and had an apple to make myself feel better about it.
+121,2009-01-20T17:00:00,increase,0.2,"apple crisp from granola, taste good"
+122,2009-01-20T17:00:00,increase,0.2,"Reminiscing, I remember giving my Apple Newton to a curator at the St. Petersburg Museum, to use as an abstract-language art piece."
+123,2009-01-20T17:00:00,increase,0.2,Wow. Tried to download the ustream client from the Apple App Store. App Store looks frozen.
+124,2009-01-20T17:00:00,increase,0.2,could really use a latte and an apple fritter
+125,2009-01-20T17:00:00,increase,0.2,"No, I do not want Apple to update my OS. No, I do not want Time Machine to back me up. Stop interrupting my stream!"
+126,2009-01-20T17:00:00,increase,0.2,finishing my first presentation (MS-SQL 2008 DBA Training) with Apple's Keynote from iWork'09. Pretty cool app ...
+127,2009-01-20T17:00:00,increase,0.2,@alansmitheejp  hold until you see the Apple logo
+128,2009-01-20T17:00:00,increase,0.2,nvm. eff that! can anyone point me in the direction of a live txt-based feed of the event? a la Apple keynotes or CES?
+129,2009-01-20T17:00:00,increase,0.2,"Moved from Boxee/Apple TV and Web to watching inauguration on plain ol' TV (POTV). For stuff like this, it works great."
+130,2009-01-20T17:00:00,increase,0.2,Oh boy. Apple events and inaugurations: You can't escape them. At least not on twitter.
+131,2009-01-20T17:00:00,increase,0.2,"@buriguri Apple is more expensive, but works well."
+132,2009-01-20T17:00:00,increase,0.2,"Michelle's gloves are classy. Apple green, I believe."
+133,2009-01-20T17:00:00,increase,0.2,Got cider from apple bar! Nothing compares! Off to a mtg hope it goes better then last weeks!
+134,2009-01-20T17:00:00,increase,0.2,"My courier delivery is a no show - so off to Apple regent st now, emergency purchase for job tomorrow"
+135,2009-01-20T17:00:00,increase,0.2,Just had me a wee apple pie while listening to the Obama inauguration in the background. Could I be any more American?
+136,2009-01-20T17:00:00,increase,0.2,@rossimo upstairs right outside the apple store...they ahve a projector
+137,2009-01-20T17:00:00,increase,0.2,Apple keeps deleting my forum posts stating why their webmail sucks
+138,2009-01-20T17:00:00,increase,0.2,@travlR get an apple with time machine - easy transition
+139,2009-01-20T17:00:00,increase,0.2,"Obama is going to be president, I just downed a whole jar of apple sauce and my hair is pretty. I feel a twitterblitz coming on. JUMP KICKS!"
+140,2009-01-20T17:00:00,increase,0.2,"@Artfire it's a mexican veggie, they use ti alot in salsas etc.. like a cross between a potato and an apple."
+141,2009-01-20T17:00:00,increase,0.2,@camflan Did you have to do anything special or do the same steps apply pre Apple Tv 2.2 software update?
+142,2009-01-20T17:00:00,increase,0.2,"While getting an email from Apple Repair Center that they started to fix my MacBook pro, the inauguration is about to begin..."
+143,2009-01-20T17:00:00,increase,0.2,@dtweaver go to the apple stote in B-town. They can help you. They are on the square.
+144,2009-01-20T17:00:00,increase,0.2,"@WesleyRiot I think it's the graphics chip, dropped it off at the Apple service shop this morning for repair. Gotta love 3 year warranties."
+145,2009-01-20T17:00:00,increase,0.2,@tablezero wish it could run in the background.  Wish Apple would allow programs to do that.
+146,2009-01-20T17:00:00,increase,0.2,@shawnz nice profile image of you.... & a nice fiona apple song ^_^
+147,2009-01-20T17:00:00,increase,0.2,@dtweaver 299.00 for 500 GB 499.00 for TB. They are wireless and they are also a wireless router. Apple rocks!
+148,2009-01-20T17:00:00,increase,0.2,We've got some apple pie in the office to jion in the #inaug09  spirit
+149,2009-01-20T17:00:00,increase,0.2,watching coverage on the Apple iTouch via USTREAM as well as on the Mac via CNN.  Remember Cisco is the plumbing behind most of this.
+150,2009-01-20T17:00:00,increase,0.2,"@findchris just done a little reading on it, i check marks daily apple often and like his ideas on eating, i want a healthy way to stay lean"
+151,2009-01-20T17:00:00,increase,0.2,Apple's stock does not seem as excited about Obama as most everyone else. Bummer.
+152,2009-01-20T17:00:00,increase,0.2,"- Glad to be able to witness the inauguration of Barack Obama, but wish Apple would make the sound controls for OSX work better! :P"
+153,2009-01-20T17:00:00,increase,0.2,"recovering from a brash attempt to combine Cracklin Oat Bran, Cinnamon Crunch Total, and Apple Cinnamon Cheerios. Too...much...cinnamon."
+154,2009-01-20T17:00:00,increase,0.2,"Slideshare truly blows me away every time I view a presentation. Its got the ""it just works"" feel of apple products."
+155,2009-01-20T17:00:00,increase,0.2,@teawiththecheat  I am also food inspired to celebrate #inaug09.  Apple pie was last night.  Will p/u cupcake gauntlet and get baking now.
+156,2009-01-20T17:00:00,increase,0.2,@toriffic I bet he thought he got an Apple
+157,2009-01-20T17:00:00,increase,0.2,"@deangillis apple sauce, some cinnamon, rice flour and some stivea. They weren't bad. A little sticky though."
+158,2009-01-20T17:00:00,increase,0.2,"take a bath and get high with an apple, lol at the national."
+159,2009-01-20T17:00:00,increase,0.2,@Jay900 new update says to reinstall and it should fix the problem until v1.4 update is approved by Apple
+160,2009-01-20T17:00:00,increase,0.2,It is my guess that people who have to take their gloves off to use the iPhone are pissed at Apple. Those poor people in DC are suffering.
+161,2009-01-20T17:00:00,increase,0.2,"Fried eggs, apple cider, and the UK Office. Good morning."
+162,2009-01-20T17:00:00,increase,0.2,RIM And Microsoft look to be releasing Apple-Like Application Stores for their OSes. I hope you can still grab apps from other places.
+163,2009-01-20T17:00:00,increase,0.2,"i got an ipod touch (as a pessy), thinking of writing some apps so apple can steal 30% w0000p! .. very cool thou."
+164,2009-01-20T17:00:00,increase,0.2,@thurrott I agree because I don't think any other large company is as heavily dependent on its CEO for its identity and success as Apple is.
+165,2009-01-20T17:00:00,increase,0.2,"Is back from the big apple and has gotten over his grieving for the Ravens, hey, pitchers and catchers report in a little over three weeks"
+166,2009-01-20T17:00:00,increase,0.2,my brother is trying to convert me from apple to sony. the discounts are tempting
+167,2009-01-20T17:00:00,increase,0.2,"@savagepaul like @paulmwatson said, you can bring em up in a list but no delete option. seems an obvious feature for apple to implement!"
+168,2009-01-20T17:00:00,increase,0.2,Cox Apple (35 cals)
+169,2009-01-20T17:00:00,increase,0.2,@boxee was wondering if you got boxee up and running on the newest version of apple tv
+170,2009-01-20T17:00:00,increase,0.2,"zero interest in apple's desktop os, but would buy a iphone based tablet right now. the interface is that nice."
+171,2009-01-20T17:00:00,increase,0.2,Do you think the apple store would take my iPhone apart to get rid of the dust in my screen? It's driving me crazy!
+172,2009-01-20T17:00:00,increase,0.2,"Next Inning Technology Research Previews Earnings for Apple, Google, Nokia, and Cree: 			 (Source: PR Newswire)"
+173,2009-01-20T17:00:00,increase,0.2,@Artfire I've had jicama before - its kind of like an apple/potato :) they're great in salads!
+174,2009-01-20T17:00:00,increase,0.2,"inauguration watching is in full swing...we got apple pie, red white & blue fruit pizza, and lunch from the smoke daddy...yummmm"
+175,2009-01-20T17:00:00,increase,0.2,@iphoneincanada That's partly why it's such a great phone. Apple should make a slide-out keyboard too.
+176,2009-01-20T17:00:00,increase,0.2,@fleeg Dude - I'm tellin' ya - these roads are so perfect and smooth... it's like if Apple built a skeeball ramp.
+177,2009-01-20T17:00:00,increase,0.2,@JeffWoelker Apple stalling video capture/streaming because: a) No vid = bettery battery specs  b) Apple doing their own Qik
+178,2009-01-20T17:00:00,increase,0.2,Wanker security man threw me out of the Apple Store today... DICK
+179,2009-01-20T17:00:00,increase,0.2,"Got my computer back! Apple care covered everything, so it was free!"
+180,2009-01-20T17:00:00,increase,0.2,"@jbradforddillon not Apple. Xcode. got some useless error on Friday. tried again today, worked, no problem."
+181,2009-01-20T17:00:00,increase,0.2,@DonMcAllister Just like an Apple product!
+182,2009-01-20T17:00:00,increase,0.2,"@JeffWoelker Yeah, I really wonder why Apple doesn't allow video capture/stream or recording...."
+183,2009-01-20T17:00:00,increase,0.2,I fear I may turn into an apple...
+184,2009-01-20T17:00:00,increase,0.2,Shift apple 4 is really the most useful shortcut I know. Thanks @henrikaufman !
+185,2009-01-20T17:00:00,increase,0.2,This apple smells like it has been excreted by an aging monkey with colon disease. I think I'd better wash it.
+186,2009-01-20T17:00:00,increase,0.2,"@Artfire ooh...i have heard of them, just not had them. Jicama is like a cross between an apple and a potato."
+187,2009-01-20T17:00:00,increase,0.2,@K82 that and Apple reports quarterly earnings Wed and looking like its going to be a tad lower then expected according to some
+188,2009-01-20T17:00:00,increase,0.2,"Idea: Apple may have switched to higher-bitrate iTunes Plus to drive customers to more expensive, higher-capacity iPods."
+189,2009-01-20T17:00:00,increase,0.2,@leebryant are you gambling that Apple has better capitalisation than RBS? Or expecting an instant Obama 'feel good' bounce?
+190,2009-01-20T17:00:00,increase,0.2,"@jaekaebee it's not from apple, i guess"
+191,2009-01-20T17:00:00,increase,0.2,Ustream downloaded from Apple Store! Now all I need is wi-fi on this bus and I'd be golden. Stream the #inaug09 to the iPhone! @mstrm #video
+192,2009-01-20T17:00:00,increase,0.2,@fernandolins The way this gets implemented is gonna be a market-shaker. I'm sure Apple is watching closely and loading up its sleeves. Haha
+193,2009-01-20T17:00:00,increase,0.2,@dtweaver apple has an external drive.
+194,2009-01-20T17:00:00,increase,0.2,Apple breaks to fresh session lows as it dips down to probe its Nov-Jan/52-wk range low of 79.14
+195,2009-01-20T17:00:00,increase,0.2,I'm glad with the Ustream app:) wish apple would alowed 3G for everything!
+196,2009-01-20T17:00:00,increase,0.2,Watching Obama on Apple TV via Boxee. At 12 pm I no longer have to pay for gas or school or my house. W00t!!!
+197,2009-01-20T17:00:00,increase,0.2,Twitter is crazy slow today.  Am I to believe a universe that loves Apple is enlightened enough to twitter about the inauguration?  Wowww.
+198,2009-01-20T17:00:00,increase,0.2,"@pmsumner Probably a roast pork n apple sauce sarnie, since I deliberately chose a HUGE piece of pork for Sunday's roast dinner!"
+199,2009-01-20T17:00:00,increase,0.2,@phillymac re: apple stock falling. I think it's because Steve Jobs is taking a medical leave.
+200,2008-04-15T17:00:00,increase,0.17,"Firmware del Apple Wireless Keyboard Actualizado. De momento las teclas siguen tal cual, no han aparecido pantallitas OLED  :-("
+201,2008-04-15T17:00:00,increase,0.17,At working drinking apple piss!
+202,2008-04-15T17:00:00,increase,0.17,At work drinking apple pee
+203,2008-04-15T17:00:00,increase,0.17,eating an apple
+204,2008-04-15T17:00:00,increase,0.17,Going to order @lyzadanger one of those new thin & quiet apple keyboards. She types like a hail storm on a tin roof. :-)
+205,2008-04-15T17:00:00,increase,0.17,Apple bloatware: 500MB of iPodSoftwareUpdater on my drive. Buhbye. -Delete
+206,2008-04-15T17:00:00,increase,0.17,"@danbenjamin  It looks like they subscribe to Apple's black-costs-more thought, huh? Jeez."
+207,2008-04-15T17:00:00,increase,0.17,I am experiencing severe techno-lust for the Apple iTouch. What say all of you? Should I give in?
+208,2008-04-15T17:00:00,increase,0.17,"@ramin987 lol, gotta love that new Apple smell ;)"
+209,2008-04-15T17:00:00,increase,0.17,apple cinnamon rice cakes = pretty good.  too bad i'll be hungry again in 6.5 minutes.
+210,2008-04-15T17:00:00,increase,0.17,"@ramin987 Lol! Got my Apple Keyboard about 2wks ago, can't say I've tried smelling it. Love it tho! lol"
+211,2008-04-15T17:00:00,increase,0.17,Roxio Crunch - Physical: Roxio Crunch - Physical$39.99Roxio Crunch? is the essential video converter for your Apple TV..
+212,2008-04-15T17:00:00,increase,0.17,Roxio Crunch - Download: Roxio Crunch - Download$39.99Roxio Crunch? is the essential video converter for your Apple TV..
+213,2008-04-15T17:00:00,increase,0.17,So... cheapest place for Apple bluetooth KB & mighty mouse? Anybody know?
+214,2008-04-15T17:00:00,increase,0.17,Antsy. Ate my yogurt and my apple. Want to get outside. Must run free.
+215,2008-04-15T17:00:00,increase,0.17,@50hz That sounds good! Very nice from Apple.
+216,2008-04-15T17:00:00,increase,0.17,"I'm that girl that would change her name and become the foreign apple picker who falls weak in the knees for Jose, the matador for fun."
+217,2008-04-15T17:00:00,increase,0.17,The Apple Keyboard Firmware update seems to have fixed my squeaky tab key issue.. hmmmm
+218,2008-04-15T17:00:00,increase,0.17,"i don't apple will sue Psystar, it could open up antitrust suits on Apple"
+219,2008-04-15T17:00:00,increase,0.17,"Enjoying the sunshine, my apple slicer and the fact that there's a light at the end of the tunnel. (And the tunnel ain't that long either.)"
+220,2008-04-15T17:00:00,increase,0.17,Facebook deleted the Apple Inc. fan page. =(
+221,2008-04-15T17:00:00,increase,0.17,Good news from Apple. They will allow me to reload all the music I ever bought.
+222,2008-04-15T17:00:00,increase,0.17,pete's coffee in Burlingame. Next to the Apple store for free wifi. Nice combo.
+223,2008-04-15T17:00:00,increase,0.17,@aulia noticing that apple didn't list any iPod on that list...
+224,2008-04-15T17:00:00,increase,0.17,Suffering due to lack of sleep. Not helpful when teaching a class. Especially a class with a challenging Apple SE in it.
+225,2008-04-15T17:00:00,increase,0.17,Thanks Apple. iPhone has a problem? Swap it out with a new phone. Restore to backup & I'm right back to where I was like it never happened
+226,2008-04-15T17:00:00,increase,0.17,@ovel I don't think I have Apple Hardware Test - where is it located?
+227,2008-04-15T17:00:00,increase,0.17,"@ovel not TORX, Phillips head. Powerbook just back from Apple Store with new logic board and increased 1 GB memory while I was in the US."
+228,2008-04-15T17:00:00,increase,0.17,"sitting on the couch, folding laundry, watching Larry Boy and the Bad Apple"
+229,2008-04-15T17:00:00,increase,0.17,"Aargh! Another brush-off from Apple. ""We are currently reviewing applications for the iPhone Developer Programs and will contact you soon.."""
+230,2008-04-15T17:00:00,increase,0.17,"went to sheesha bar last night. went home feeling dizzy with cappucino, apple and lemon flavored sheesha. will try again next time :)"
+231,2008-04-15T17:00:00,increase,0.17,"At home, upgrading my Apple TV"
+232,2008-04-15T17:00:00,increase,0.17,"Dear Apple, Just so you know, the moment you drop updates to the 30"" Cinema display, I'll be ordering it. Been waiting a while though.-Me"
+233,2008-04-15T17:00:00,increase,0.17,"Go go gadget, Apple iWork Keynote! oh, sorry, you've been there for hours :P"
+234,2008-04-15T17:00:00,increase,0.17,interestingly Apple *aren't* cutting the iPhone price in their own UK store...
+235,2008-04-15T17:00:00,increase,0.17,"@bmagierski Entourage but frequently switch between apple mail, ical and address book"
+236,2008-04-15T17:00:00,increase,0.17,Explaining Apple products to people. I should be on commission.  Will the Cult of Mac still exist once everyone has got one?
+237,2008-04-15T17:00:00,increase,0.17,Just bought an 16GB ipod touch. Man is this thing cool! It's my fourth ipod... Damn you Apple for making me buy a new one every 2 years...
+238,2008-04-15T17:00:00,increase,0.17,"grr. first my corded iPhone headset's mic bit the dust, now my Apple BT headset is refusing to work too."
+239,2008-04-15T17:00:00,increase,0.17,Taking the bike to the apple store. first ride of the year.
+240,2008-04-15T17:00:00,increase,0.17,"I used to enjoy just browsing at the Apple store, now they assault you if you're not actively buying something."
+241,2008-04-15T17:00:00,increase,0.17,Apple called!!! My computer is ready!!!!
+242,2008-04-15T17:00:00,increase,0.17,@davezatz stick an apple logo and you might be surprised. call it the quicktake shuffle. who needs more than 8 pics?
+243,2008-04-15T17:00:00,increase,0.17,"I liked it better when Apple just sent the WWDC DVDs. You have to click ""Get Movie"" for EVERY...SINGLE...ONE. Then burn them yourself."
+244,2008-04-15T17:00:00,increase,0.17,"@benrasmusen I highly, highly recommend spending a few minutes with the new apple keyboard before grabbing one, but I think it's perfect."
+245,2008-04-15T17:00:00,increase,0.17,"@jeffnolan Plaxo is the best. do you just use Apple Mail, Address Book & iCal? my problem is the company is on Exchange server thus Entourag"
+246,2008-04-15T17:00:00,increase,0.17,"@jeffnolan Plaxo is the best. do you just use Apple Mail, Address Book & iCal? my problem is the company is on Exchange server thus Ento ..."
+247,2008-04-15T17:00:00,increase,0.17,"@jchutchins Why not destroy both Apple and Microsoft, see where that takes us in the future."
+248,2008-04-15T17:00:00,increase,0.17,Quicktime has gone far too long in this world to not have its own built-in software update feature. Get with the program Apple.
+249,2008-04-15T17:00:00,increase,0.17,"learned how to resend an iTunes gift lost in the ether; no matter what you think of Apple, I think the iTunes UI is poor."
+250,2008-04-15T17:00:00,increase,0.17,"interesting, Psystar the maker of a new desktop mac clone, wants to challenge apple's EULA in court saying it violates Monopoly laws"
+251,2008-04-15T17:00:00,increase,0.17,@jchutchins: Fly my pretty and lay waste to Curpetino... Apple have betrayed me... they must be punished. Kill them... all of them.
+252,2008-04-15T17:00:00,increase,0.17,Most people at my favorite coffee shop have Apple laptops - &gt;75%. Sweet.
+253,2008-04-15T17:00:00,increase,0.17,@rafa_n Do you need me to get you something from the country of Apple Stores?
+254,2008-04-15T17:00:00,increase,0.17,"@kaigani I have been saying the exact same thing. It would be a win, win situation for Apple & content providers alike."
+255,2008-04-15T17:00:00,increase,0.17,@davezatz i have two old Apple digital cameras here as well. they were called QuickTake and among the first digital cameras on the market
+256,2008-04-15T17:00:00,increase,0.17,Never judge a day by first impressions. Mine is looking up. Observed our catering class and got a baked apple and ice cream! Yummy!
+257,2008-04-15T17:00:00,increase,0.17,Just ate an apple pastry and an apple consecutively to see if it brought enlightenment. Just made me feel more bemused & confused.
+258,2008-04-15T17:00:00,increase,0.17,"@ffluvssg1: yeah, Mythtv is cool. I have no time to mess with that.i have thought of making my mac mini an apple tv though"
+259,2008-04-15T17:00:00,increase,0.17,"@hawksdomain My boss is generally like ""You need it, okay.""  But he balks at buying the Mac for some reason.  He's probably an apple hater"
+260,2008-04-15T17:00:00,increase,0.17,Why can Apple and Microsoft just interoperate and play nicely together. Where's my single sign-on damn it.
+261,2008-04-15T17:00:00,increase,0.17,o2 cuts £100 off iPhone price but no cut at apple - what is going on?
+262,2008-04-15T17:00:00,increase,0.17,i want an Apple TV with the capability to play 1080p content OR a Mac mini with HDMI 1.3 ...
+263,2008-04-15T17:00:00,increase,0.17,"Switching back to the Gmail interface after a few months of Apple Mail + IMAP. For me, Gmail is a better way."
+264,2008-04-15T17:00:00,increase,0.17,@Akula  Yes! to Apple install comment -- I've had to uninstall Safari twice now on the home 'puter.
+265,2008-04-15T17:00:00,increase,0.17,10:20 AM 4 eggs (800) jello (160) choc pudding (160) apple juice (100).
+266,2008-04-15T17:00:00,increase,0.17,It's time for work again.  For breakfast I'm eating an apple and Diet Root Beer.
+267,2008-04-15T17:00:00,increase,0.17,lunch + perusing apple products
+268,2008-04-15T17:00:00,increase,0.17,LOL reading that Psystar argues that Apple has a monopoly completely discounting the existence of other established operating systems.
+269,2008-04-15T17:00:00,increase,0.17,"Listening to a some shuffled music via ear buds, but it seems that by ""shuffle"" apple means that its not really random."
+270,2008-04-15T17:00:00,increase,0.17,Running count. Apple 2 pc 3
+271,2008-04-15T17:00:00,increase,0.17,@Garternberg No Apple gaming console needed. Digital still cameras and video cameras is a halo-expansion opportunity: edit content on Mac.
+272,2008-04-15T17:00:00,increase,0.17,Roxio Crunch - Physical: Roxio Crunch - Physical$39.99Roxio Crunch? is the essential video converter for your Apple TV..
+273,2008-04-15T17:00:00,increase,0.17,Roxio Crunch - Download: Roxio Crunch - Download$39.99Roxio Crunch? is the essential video converter for your Apple TV..
+274,2008-04-15T17:00:00,increase,0.17,"Yay, I get off in two hours. Then I have to be on the phone with Apple Care and find out what to do with my mom's Imac issue"
+275,2008-04-15T17:00:00,increase,0.17,Apple was right: the new folder icons _are_ better.
+276,2008-04-15T17:00:00,increase,0.17,"@nevali well, in that case it's Apple and everything is sekrit. maybe the bug will actually be a feature at next year's WWDC?"
+277,2008-04-15T17:00:00,increase,0.17,@shanerichmond: apple not be matching the reductions. Sluggish sales more likely reason?
+278,2008-04-15T17:00:00,increase,0.17,Contemplating how one builds a community. Guy kawasaki has a Blog discussing just this during his days at apple.
+279,2008-04-15T17:00:00,increase,0.17,@flueke whats wrong with apple-mail?
+280,2008-04-15T17:00:00,increase,0.17,sad apple didn't make a phone which works on Verizon's network aftr 10yrs I think I'll be leaving Verizon for a 3G iphone coming this summer
+281,2008-04-15T17:00:00,increase,0.17,"My foldable Sennheisers broke yesterday, using crappy Apple earbuds instead. Fix them  or pony up and buy a new pair?"
+282,2008-04-15T17:00:00,increase,0.17,"at ""iTunes U"" session at Apple Boston. What if Apple enabled voluntary micropayments for content? All those gift cards floating around..."
+283,2008-04-15T17:00:00,increase,0.17,bummed that my new iPod Classic's EQ adds audible distortion to sound... WTF Apple?
+284,2008-04-15T17:00:00,increase,0.17,"Trying to explain AFP, RAID, and NAS (and Apple TV hacking) via email."
+285,2008-04-15T17:00:00,increase,0.17,Fiona Apple - A cross the universe ♫
+286,2008-04-15T17:00:00,increase,0.17,"pondering the purchase of a new apple. ""need"" is such a subjective thing."
+287,2008-04-15T17:00:00,increase,0.17,@jimmurphy of course that bridge could be called Apple TV
+288,2008-04-15T17:00:00,increase,0.17,"awed at google earth running fullscreen on a 30"" apple studio display :D :D"
+289,2008-04-15T17:00:00,increase,0.17,11+ hours and counting on MBP fresh back from Apple.  3rd logic board in as many weeks!  Holding breath.  Considering extended warranty. :)
+290,2008-04-15T17:00:00,increase,0.17,@gartenberg If you buy the rich gaming/media concolidation and death of broadcast TV then as 1st screen is computer Apple bridgesthe worlds.
+291,2008-04-15T17:00:00,increase,0.17,Question: does the weakened sterling mean that it's no longer necessary for Apple to lower the prices in the iTunes Store?
+292,2008-04-15T17:00:00,increase,0.17,"@katsushiro my iphone crashed two times while tracking ""SDK"" during Apple's live event... It was madness!"
+293,2008-04-15T17:00:00,increase,0.17,"Setting up an Xserve, for which this customer also purchased an Apple 30-inch display.  Ok, wow, yeah."
+294,2008-04-15T17:00:00,increase,0.17,"Okay, so, about 30 seconds after I tell my coworkers about the lab position, I get a call from APPLE to schedule an interview tomorrow..."
+295,2008-04-15T17:00:00,increase,0.17,Why 'wireless' backup on Apple's TimeCapsule? Why not 'wired' which is at least 200% faster and 400% More reliable? Why push 'wireless'?
+296,2008-04-15T17:00:00,increase,0.17,@jdevl at least you could somewhat afford what's in the microsoft store... MacBook Air... $1700... no dvd drive... nice one Apple.
+297,2008-04-15T17:00:00,increase,0.17,"@cbahm @scottsigler I think the best system is somewhere between Apple's (which is about subscriptions, I think) and Pickles (Favorites)..."
+298,2008-04-15T17:00:00,increase,0.17,@Taquoriaan They might carry them on the Apple Store not sure though. Great bag though.
+299,2008-04-15T17:00:00,increase,0.17,"Apple is great when it works, Sucks when it doesn't. IPhone lost all synchronizations. Now must Restore to fix."
+300,2008-01-14T17:00:00,decrease,-0.23,"Apple, why can't I legally virtualize OS X?  There's something very wrong when my Windows test environment is better than my OS X."
+301,2008-01-14T17:00:00,decrease,-0.23,"I ran after my shuttle this morning. Man, am I out of shape. It wasn't my shuttle. It was the Apple shuttle. Exercise + humiliation!"
+302,2008-01-14T17:00:00,decrease,-0.23,@cv I want Keychain sync to work for 1Password! But trust Apple to mess it all up
+303,2008-01-14T17:00:00,decrease,-0.23,Domestic bliss: the bride is making spiced-apple coffee cake during a blizzard.
+304,2008-01-14T17:00:00,decrease,-0.23,"Keychain and iDisk sync are great ideas from Apple, but failed in implementation. ""It just works"" huh?"
+305,2008-01-14T17:00:00,decrease,-0.23,"Techrunch: Google Beefs Up iPhone Interface: As we noted earlier, Google has pumped up its interface for the Apple i.."
+306,2008-01-14T17:00:00,decrease,-0.23,"Out and about - 2 meetings to go. By the time I'm finished, I'll be able to read all about the new stuff from Apple."
+307,2008-01-14T17:00:00,decrease,-0.23,Anyone using Quicktime pro? What are the uses? The Apple site is a bit vague.
+308,2008-01-14T17:00:00,decrease,-0.23,"Just sent a skitch to a non apple person. ""how did you?.."" sorry, mac only. sort of compensates for my safari frustration. thanks plasq. :-)"
+309,2008-01-14T17:00:00,decrease,-0.23,"so, if Netflix is trying to compete with Apple, why can't I use their ""Watch Now"" feature on my Mac?"
+310,2008-01-14T17:00:00,decrease,-0.23,"eFluxMediaApple, Give Us Something to Talk AboutBusinessWeek - 8 hours agoThe sky's the limit, so predicting what CEO Jobs will disc ..."
+311,2008-01-14T17:00:00,decrease,-0.23,"eFluxMediaApple, Give Us Something to Talk AboutBusinessWeek - 8 hours agoThe sky's the limit, so predicting what CEO Jobs will disc ..."
+312,2008-01-14T17:00:00,decrease,-0.23,"owning nothing from apple anymore, i don't know why i'm still so excited for macworld"
+313,2008-01-14T17:00:00,decrease,-0.23,(wilalambre): All excited for Macworld tomorrow. It's christmas again for apple fanatics
+314,2008-01-14T17:00:00,decrease,-0.23,Are there any Apple XServe and OSX Managed Hosting companies? Why is no one taking advantage of Apple's 'Halo' effect into the server bu ...
+315,2008-01-14T17:00:00,decrease,-0.23,All excited for Macworld tomorrow. It's christmas again for apple fanatics :)
+316,2008-01-14T17:00:00,decrease,-0.23,just turned down 12hrs a week at Apple.
+317,2008-01-14T17:00:00,decrease,-0.23,Apple runs into China Mobile wallMarketWatch - 1 hour agoBy MarketWatch LONDON (MarketWatch) - Whatever big announcements come outof  ...
+318,2008-01-14T17:00:00,decrease,-0.23,@adelemcalear I love my MBP. I ust need a Apple 30in display for my birthday this year
+319,2008-01-14T17:00:00,decrease,-0.23,Apple
+320,2008-01-14T17:00:00,decrease,-0.23,"@ijohnpederson Apple also applied for patent on something that looks like iMac, but allows insertion of portable macbook for docking"
+321,2008-01-14T17:00:00,decrease,-0.23,"@newmovieclip - you should really try the outback steak house across the road from the Apple campus in Cupertino, its really good!"
+322,2008-01-14T17:00:00,decrease,-0.23,"""Dear Minions of Apple, we have new stuff for you! Come! Buy! Give us all your money!"" Oder so aehnlich halt. =:o)"
+323,2008-01-14T17:00:00,decrease,-0.23,"DownloadSquad: ZSF for Mac OS X: Filed under: Macintosh, Productivity, Apple, Open SourceThere was once a rumor t.."
+324,2008-01-14T17:00:00,decrease,-0.23,Working two computers & three phones.  Now to integrate giving the bot some apple sauce.  It's a dangerous life!
+325,2008-01-14T17:00:00,decrease,-0.23,"ready for first day of scouting: today EA, CISCO, HP garage and the infinite loop street of Apple:-)"
+326,2008-01-14T17:00:00,decrease,-0.23,"An Apple a day keeps the doctor away. A call from Apple a day, prevents headaches from going away"
+327,2008-01-14T17:00:00,decrease,-0.23,"Played: ""The Metadata Screencast: Part Three"" by The Apple Blog"
+328,2008-01-14T17:00:00,decrease,-0.23,"Played: ""The Metadata Screencast: Part Three"" by The Apple Blog"
+329,2008-01-14T17:00:00,decrease,-0.23,Globe and MailApple runs into China Mobile wallMarketWatch - 37 minutes agoBy MarketWatch LONDON (MarketWatch) - Whatever big announ ...
+330,2008-01-14T17:00:00,decrease,-0.23,Globe and MailApple runs into China Mobile wallMarketWatch - 37 minutes agoBy MarketWatch LONDON (MarketWatch) - Whatever big announ ...
+331,2008-01-14T17:00:00,decrease,-0.23,thinking ahead to the apple keynote. what shiny goodness will i be dreaming of in a few hours time?
+332,2008-01-14T17:00:00,decrease,-0.23,Note to self: never call your phone from the display iphone at the apple store...
+333,2008-01-14T17:00:00,decrease,-0.23,"Is chuffed with his shiny new Apple keyboard. MMM, aluminum."
+334,2008-01-14T17:00:00,decrease,-0.23,@jmccay My Apple mouse has been buggy lately. Maybe I should try that. Cursing and banging it don't seem to help much.
+335,2008-01-14T17:00:00,decrease,-0.23,Heading to Apple Store for an iPhone replacement.  Battery issues.
+336,2008-01-14T17:00:00,decrease,-0.23,"just took a monitor cleaning wipe to my Apple mouse and there some semblance of down scrolling once again, ftw"
+337,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+338,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+339,2008-01-14T17:00:00,decrease,-0.23,"At kickoff Apple up, China Mobile down. The market is ignoring my prediction! C'mon, does China need the iPhone more than Apple needs China?"
+340,2008-01-14T17:00:00,decrease,-0.23,is learning Adobe Lightroom... and loving it more than Apple's Aperture. Good stuff.
+341,2008-01-14T17:00:00,decrease,-0.23,@juliaroy Did the move go ok? Welcome to the Big Apple.
+342,2008-01-14T17:00:00,decrease,-0.23,"eating an apple, reading about Service Oriented Architecture, wondering where the rest of my team is..."
+343,2008-01-14T17:00:00,decrease,-0.23,@hotheadred - maybe I can get a job at apple now...except I smell like trout.
+344,2008-01-14T17:00:00,decrease,-0.23,Wishing Apple made their keyboard in black.
+345,2008-01-14T17:00:00,decrease,-0.23,/me points a finger @ my Apple friend... thou hast forsaken me! It's *tomorrow* at 9 in fact. :p Thanks @zenvoid ;)
+346,2008-01-14T17:00:00,decrease,-0.23,"Something in the Air: In a strategic alliance with Wham-O, Apple's new MacBook is in the shape of a Frisbee. Sneakernet meet Wristnet."
+347,2008-01-14T17:00:00,decrease,-0.23,@hundreddollar - that's awesome! And a great idea. Do you remember that Lemonade Stand game for Apple ][? It was great too
+348,2008-01-14T17:00:00,decrease,-0.23,MacBook Air. Think Apple notbook the thickness of the new keyboards.
+349,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+350,2008-01-14T17:00:00,decrease,-0.23,"It’s definitely time for a break. A big forget-todo-lists, play-Halo, tasty-beverage break. And apple pie. With ice-cream!"
+351,2008-01-14T17:00:00,decrease,-0.23,"Lots of rumors that a slim notebook is going to be announced. If so, that would be awesome... Apple has needed something  in this niche"
+352,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+353,2008-01-14T17:00:00,decrease,-0.23,Soon off to apple store... registration at Moscone Center 8:00am
+354,2008-01-14T17:00:00,decrease,-0.23,Soon off to apple store... registration at Moscone Center 8:00am
+355,2008-01-14T17:00:00,decrease,-0.23,Hopes that Apple releases some updates to the MacBook tomorrow.
+356,2008-01-14T17:00:00,decrease,-0.23,"Hoping that ""something in the air"" means Apple is bringing their unique quality to the fragrance market."
+357,2008-01-14T17:00:00,decrease,-0.23,明天FC Barcelona & Apple MWSF 2008.
+358,2008-01-14T17:00:00,decrease,-0.23,Fuji apple and Greek yogurt
+359,2008-01-14T17:00:00,decrease,-0.23,"Globe and MailUPDATE 2-Apple, China Mobile call off iPhone launch talksReuters - 3 hours agoBy Vinicy Chan HONG KONG, Jan 14 (Reute ..."
+360,2008-01-14T17:00:00,decrease,-0.23,@purploony how could your turn your back on the Apple like this?  How sinful....:D
+361,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+362,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+363,2008-01-14T17:00:00,decrease,-0.23,"""Apple's hardware engineers had spent about a year working on touchscreen technology for a tablet PC "" In 2004. Interesting"
+364,2008-01-14T17:00:00,decrease,-0.23,Checking apple Website for any updates. MacWorld Expo begins today.
+365,2008-01-14T17:00:00,decrease,-0.23,@patireland I think Apple gave up because they couldn't make them slick enough
+366,2008-01-14T17:00:00,decrease,-0.23,"Tomorrow is #MacExpo, I'm all wigglish and hipplish. What does everyone think will come out? #apple"
+367,2008-01-14T17:00:00,decrease,-0.23,"Globe and MailUPDATE 2-Apple, China Mobile call off iPhone launch talksReuters - 2 hours agoBy Vinicy Chan HONG KONG, Jan 14 (Reute ..."
+368,2008-01-14T17:00:00,decrease,-0.23,"@akaMonty I know, but it's that mentality that keeps Apple in business."
+369,2008-01-14T17:00:00,decrease,-0.23,@patireland Apple haven't done a live stream for a few years now. Some of the blogs try to do live text commentary
+370,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+371,2008-01-14T17:00:00,decrease,-0.23,pondering what apple will launch this week. and i don't even give a fig about apple. Apple 0wns us all. MacWorld FTW!
+372,2008-01-14T17:00:00,decrease,-0.23,@ndrake seems to be working this morning from Apple Mail
+373,2008-01-14T17:00:00,decrease,-0.23,"Tomorrow is, apparently, super-thin-laptop day for apple. If it has a solid state drive, then I will have a hard time not buying"
+374,2008-01-14T17:00:00,decrease,-0.23,Apparently being bought by Apple...
+375,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+376,2008-01-14T17:00:00,decrease,-0.23,"Globe and MailUPDATE 2-Apple, China Mobile call off iPhone launch talksReuters - 2 hours agoBy Vinicy Chan HONG KONG, Jan 14 (Reute ..."
+377,2008-01-14T17:00:00,decrease,-0.23,"Globe and MailUPDATE 2-Apple, China Mobile call off iPhone launch talksReuters - 2 hours agoBy Vinicy Chan HONG KONG, Jan 14 (Reute ..."
+378,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+379,2008-01-14T17:00:00,decrease,-0.23,"Wishing I was at Macworld 08 ""My prediction is that Apple will announce they are buying FCC Airspace"
+380,2008-01-14T17:00:00,decrease,-0.23,"@Josephine Tate M. has flaky free BT WiFi (open Apple  node opposite works better). Plus they cut power to plugs in turbine hall, the misers"
+381,2008-01-14T17:00:00,decrease,-0.23,"If Apple went all DRM free free amazon would we be able to ""upgrade"" existing music?"
+382,2008-01-14T17:00:00,decrease,-0.23,just caught myself thinking Apple+Z when picking up a rubber.
+383,2008-01-14T17:00:00,decrease,-0.23,"Globe and MailUPDATE 2-Apple, China Mobile call off iPhone launch talksReuters - 2 hours agoBy Vinicy Chan HONG KONG, Jan 14 (Reute ..."
+384,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+385,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+386,2008-01-14T17:00:00,decrease,-0.23,"Damn, I really wish I would have brought my Apple Keyboard from home. The way I see it, I could just pick it up before the end of the day..."
+387,2008-01-14T17:00:00,decrease,-0.23,"Globe and MailUPDATE 2-Apple, China Mobile call off iPhone launch talksReuters - 1 hour agoBy Vinicy Chan HONG KONG, Jan 14 (Reuter ..."
+388,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+389,2008-01-14T17:00:00,decrease,-0.23,"interestingly enough, the Apple Store lists the airport extreme base station as ""Not Available"""
+390,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+391,2008-01-14T17:00:00,decrease,-0.23,Apple + Adobe AIR = not so far fetched
+392,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+393,2008-01-14T17:00:00,decrease,-0.23,apple
+394,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+395,2008-01-14T17:00:00,decrease,-0.23,"HONG KONG (Reuters) - Apple Inc and China Mobile have called off talks tolaunch the U.S. firm's popular iPhones in China, dashing inves ..."
+396,2008-01-14T17:00:00,decrease,-0.23,Why do people keep speculating Apple is going to release a PDA? They already have; it's called the iPhone.
+397,2008-01-14T17:00:00,decrease,-0.23,apple
+398,2008-01-14T17:00:00,decrease,-0.23,They promised snow in NY. Six inches. Weather forecasters are like Apple marketers: they get you all jazzed up and then leave you flat.
+399,2008-01-14T17:00:00,decrease,-0.23,eFluxMediaApple May Need to Play Better with OthersBusinessWeek - 3 hours agoby Peter Burrows If this year's Macworld Conference & E ...
+400,2008-09-25T17:00:00,decrease,-0.24,Why does Vista's image generation engine have a 'Quartz.dll' - isn't that what Apple's graphics engine called?
+401,2008-09-25T17:00:00,decrease,-0.24,Daily 1 o'clock sticky fingers from my red delicious apple. Purell time.
+402,2008-09-25T17:00:00,decrease,-0.24,is going to the Apple store to get a new iPhone.
+403,2008-09-25T17:00:00,decrease,-0.24,"@smileysapana nope Tim Gunn's podcast went away after NBC (who owns Bravo) broke up with Apple a couple years ago... too bad, I liked it too"
+404,2008-09-25T17:00:00,decrease,-0.24,@chrisbrogan about Apple - agreed!
+405,2008-09-25T17:00:00,decrease,-0.24,timing for open G1 shapes up nice with Apple's closed core problems
+406,2008-09-25T17:00:00,decrease,-0.24,continue to formulate thesis/call apple/call microsoft/record store/relax
+407,2008-09-25T17:00:00,decrease,-0.24,is still dissapointed we have not heard from Apple about push notification
+408,2008-09-25T17:00:00,decrease,-0.24,"There's nothing like getting tossed about in a sea, soaked to the bone on deck then coming in to a hot apple cider &amp; spiced rum."
+409,2008-09-25T17:00:00,decrease,-0.24,"It appears dotMacKit doesn't work w/ MobileMe, and Apple doesn't care. Oh, well, more money for my service, then. :)"
+410,2008-09-25T17:00:00,decrease,-0.24,@bijan whoever at apple made the decision to allow fast uncomplicated hw swaps should get a medal
+411,2008-09-25T17:00:00,decrease,-0.24,"3 biggest MSFT competitors according to Ballmer: Linux (Open Office, Apple, Google"
+412,2008-09-25T17:00:00,decrease,-0.24,Update: found solution on Apple Discussions. Will follow-up once confirmed...
+413,2008-09-25T17:00:00,decrease,-0.24,@jameslao internship @ Apple? I thought you hated them and their products? The years of you insulting my hardware choices lead me to that :)
+414,2008-09-25T17:00:00,decrease,-0.24,good news/bad news at the apple store- my time capsule is fine. It's my OSX 10.5.5 install that's totally messed up. Blah.
+415,2008-09-25T17:00:00,decrease,-0.24,"Wishing I had done this load of laundry yesterday, headed to the Airport by way of the Apple Store (stupid power adapter!)"
+416,2008-09-25T17:00:00,decrease,-0.24,"Headin to west coast green fair, hopin to see the Apple of renewable hardware... Ala 1977 west coat computer fair"
+417,2008-09-25T17:00:00,decrease,-0.24,"Eyes focused on reading rather than lunch, I almost ate the sticker on my apple... again."
+418,2008-09-25T17:00:00,decrease,-0.24,"@chrisbrogan Could not agree with you more...Hello Apple, uhh copy + paste please"
+419,2008-09-25T17:00:00,decrease,-0.24,Trying out MobileMe... Having problems syncing iCal subscriptions to my iPhone though... time to write some Apple Script.
+420,2008-09-25T17:00:00,decrease,-0.24,Apple solves the &quot;arbitrary rejection of iPhone apps problem&quot; by putting the rejection letters under NDA. No bad press. No problem. For them
+421,2008-09-25T17:00:00,decrease,-0.24,is on hold with Apple and they're playing In My Place by Coldplay..it sounds terrible coming through the phone yet i'm tempted to sing along
+422,2008-09-25T17:00:00,decrease,-0.24,"@connieaw Umm....yogurt parfait, apple dippers, the regular chicken sandwhich with no mayo, or a grilled chicken sandwhich...."
+423,2008-09-25T17:00:00,decrease,-0.24,It's a bummer to see Apple managing their App Store in such a draconian way. They even have NDAs on their bitchy rejection letters now.
+424,2008-09-25T17:00:00,decrease,-0.24,I won the donut lottery today. Cinnamon Apple FTW!
+425,2008-09-25T17:00:00,decrease,-0.24,not sure all these flavours are good together... about to add one more wtih apple strudel... #Opentoberfest
+426,2008-09-25T17:00:00,decrease,-0.24,Dear Apple: Used Macs for 20 yrs. DRM &amp; App Store policies made me defect-even iPod. Let me control my content &amp; I'll be back. I'm no pirate
+427,2008-09-25T17:00:00,decrease,-0.24,"Stood in the new Apple store in Cabot Circus, using their free Wi-Fi to write this on my ipod. This place is incredible!"
+428,2008-09-25T17:00:00,decrease,-0.24,drinking apple &amp; cinnamon tea...
+429,2008-09-25T17:00:00,decrease,-0.24,Waiting at the Apple Store. My right knee kinda hurts. :P
+430,2008-09-25T17:00:00,decrease,-0.24,@rhh it really pains me to see Apple acting this way. using an NDA instead of being transparent is a surefire way to lose support 4 iPhone
+431,2008-09-25T17:00:00,decrease,-0.24,@hplug forcing the device to reboot did it for me. Just hold the lock and home buttons until you get the familiar apple screen
+432,2008-09-25T17:00:00,decrease,-0.24,"Know what would be cool, Apple? Copy/paste. Yeah."
+433,2008-09-25T17:00:00,decrease,-0.24,Turns out Apple's search in the top right searches everything if I show all results - could be more obvious though.
+434,2008-09-25T17:00:00,decrease,-0.24,OH: &quot;Guess who just lost his iPhone last night?  This guy!!&quot; - an Apple iPhone tech support agent.
+435,2008-09-25T17:00:00,decrease,-0.24,"@andytrickett cider doughnuts are relatively common in New England, found at farms during apple picking season (not in stores)"
+436,2008-09-25T17:00:00,decrease,-0.24,"@plasticvicar all right then, the apple menu."
+437,2008-09-25T17:00:00,decrease,-0.24,"Having turkey, cheese, and an apple for lunch."
+438,2008-09-25T17:00:00,decrease,-0.24,Its time for Steve Jobs to write a &quot;Thoughts on Music&quot;-styled article on the App Store on his Apple Hot News blog.
+439,2008-09-25T17:00:00,decrease,-0.24,@Gartenberg double success for Apple: change the rules of engagement and price out the competition from playing the game
+440,2008-09-25T17:00:00,decrease,-0.24,@susanffvk free apple in the mail? I'd be suspicious healthwise... Remember Snow White? :)
+441,2008-09-25T17:00:00,decrease,-0.24,Woah! Its dark &amp; chilly in the big apple tday
+442,2008-09-25T17:00:00,decrease,-0.24,"Very strange. Just ate an apple, half of which tasted of crunchy apple &amp; the other half like mushy water."
+443,2008-09-25T17:00:00,decrease,-0.24,Going to lunch and the Apple Store!
+444,2008-09-25T17:00:00,decrease,-0.24,@princesstimetoy and the Apple Crisp has to be REALLY hot so the ice cream starts melting right away....
+445,2008-09-25T17:00:00,decrease,-0.24,I really need to just no longer support it like Apple and 37signals are doing.
+446,2008-09-25T17:00:00,decrease,-0.24,This weather is making me want to make Apple Crisp with a big scoop of vanilla ice cream....no wonder I'm fat!
+447,2008-09-25T17:00:00,decrease,-0.24,Plus apple would probably reject our app anyway.
+448,2008-09-25T17:00:00,decrease,-0.24,"wondering what apple has a problem with people downlaoding podcast to their iPhone. Music is ok, but not podcast? Bandwidth maybe?"
+449,2008-09-25T17:00:00,decrease,-0.24,My iPhone is dying of Dead Pixel Creep. Can't read the time now. Ugh. Help Apple Geniuses.
+450,2008-09-25T17:00:00,decrease,-0.24,At the apple store buying a mac pro
+451,2008-09-25T17:00:00,decrease,-0.24,Looks like &quot;whine about Apple&quot; today on /.
+452,2008-09-25T17:00:00,decrease,-0.24,Sure would be nice if Apple would ship the 8GB iTouch.
+453,2008-09-25T17:00:00,decrease,-0.24,"once you buy an ipod, you shouldn't have to watch apple commercials ever again. you've already got my money, jerks."
+454,2008-09-25T17:00:00,decrease,-0.24,"Amazing homemade apple turnovers from my amazing talented wife, so delicious I want to eat 10. But I'll settle on 1 and some chai."
+455,2008-09-25T17:00:00,decrease,-0.24,@revjohnnyc cali is teeming with obama fever (at least LA) every LA person on my ichat has an obama buddy icon :) - how's the big apple?
+456,2008-09-25T17:00:00,decrease,-0.24,"Had a lot of trouble getting out of bed and think Anathem is causing me to have weird dreams, shower than off to Apple."
+457,2008-09-25T17:00:00,decrease,-0.24,eating an apple
+458,2008-09-25T17:00:00,decrease,-0.24,@projct are you aware that you are the number two result for &quot;apple pns&quot;?  SOMETHING SMELLS FUNNY. ( and it might be apple's pns )
+459,2008-09-25T17:00:00,decrease,-0.24,Rainy Washington Fall is in here. I want to smell cinnamon in the air and apple cider in my belly!
+460,2008-09-25T17:00:00,decrease,-0.24,"Lunch Time, having a Apple Chicken Walnut salad at Steak N Shake"
+461,2008-09-25T17:00:00,decrease,-0.24,Is looking for the crew from Apple.
+462,2008-09-25T17:00:00,decrease,-0.24,"Apple Mail won't let me reply to a message. I can forward it, just not reply. How f'in weird is that?"
+463,2008-09-25T17:00:00,decrease,-0.24,Saw @justgraham at the Apple Store ;)
+464,2008-09-25T17:00:00,decrease,-0.24,"so can you! Now, let's make apple pie :)"
+465,2008-09-25T17:00:00,decrease,-0.24,Wonders if Apple is hiring educational specialists
+466,2008-09-25T17:00:00,decrease,-0.24,about to take my Mac back to Apple for a new hard drive...2nd one in 6 months!
+467,2008-09-25T17:00:00,decrease,-0.24,I think I would kill someone for an apple turnover right about now. This must be what it feels like to be on a diet. No wonder they fail.
+468,2008-09-25T17:00:00,decrease,-0.24,On hold with Apple Care. Again. This is getting old fast.
+469,2008-09-25T17:00:00,decrease,-0.24,"Airplane breakfast: pancake sheet rock stuffed with apple cinnamon napalm, topped with butter/syrup epoxy."
+470,2008-09-25T17:00:00,decrease,-0.24,"made a green drink this morn. celery, romaine lettuce, kale, &amp; apple. it's good."
+471,2008-09-25T17:00:00,decrease,-0.24,Never got it.  Cranberry apple is the best
+472,2008-09-25T17:00:00,decrease,-0.24,"Apparently photoshop CS4 wont be 64bit on OSX due to apple dropping there Carbon API, so Adobe will have to rebuild in Coco."
+473,2008-09-25T17:00:00,decrease,-0.24,Going to the apple store with Ace and Gary.
+474,2008-09-25T17:00:00,decrease,-0.24,"Think of the  possibilities!U cud hve e-mail, a Motorola (MOT) Razr for calls, and an Apple (AAPL) iPhone for mobile Web browsing on 1 phne!"
+475,2008-09-25T17:00:00,decrease,-0.24,"Losing an entire morning to printer setups because Workgroup Manager isn't working as advertised. Boo, Apple."
+476,2008-09-25T17:00:00,decrease,-0.24,Done with the apple orchard going to he park to eat lunch
+477,2008-09-25T17:00:00,decrease,-0.24,"btw, still no resolution on the Apple debacle! (AppleCare repair center lost my 200GB Macbook HD, and they're giving me the runaround.)"
+478,2008-09-25T17:00:00,decrease,-0.24,"@iangoh99 No, no Flash for Android. Nor Quicktime. They don't want to pay license fee. They say Adobe and Apple free to release players."
+479,2008-09-25T17:00:00,decrease,-0.24,"@ejacqui Have you tried the Unarchiver?  It opens up everything, and it's about as fast as Apple's Archive Helper."
+480,2008-09-25T17:00:00,decrease,-0.24,@bluemistanime im interested to see what Apple has in store for us on Oct 14th. id rather have a more powerful machine than a netbook
+481,2008-09-25T17:00:00,decrease,-0.24,My managers second to last day at Apple. Sniff sniff.
+482,2008-09-25T17:00:00,decrease,-0.24,Raaaa this friggin iPhone NDA makes me crazy. The day Apple allow us to speak I start a podcast about it. I have tons of things to share...
+483,2008-09-25T17:00:00,decrease,-0.24,"Making bread for a meeting tonight, coaching my group, and getting ready to go to the apple orchard!"
+484,2008-09-25T17:00:00,decrease,-0.24,"Get an mp3 locker. Listen on phone, comp, and share library with friends anywhere. No drm crap, no restrictions or apple only stuff! @cj ..."
+485,2008-09-25T17:00:00,decrease,-0.24,@CocoaSamurai Nah its Apple testing how far developers will go.
+486,2008-09-25T17:00:00,decrease,-0.24,"frantic vibes at the Apple Store, friendly and knowledgeble staff, the experience should be good once the pace slows down. Well done Apple!"
+487,2008-09-25T17:00:00,decrease,-0.24,@jordoncooper - you mind me asking what you payed for your touch. been looking @ one from the apple store - wondering what is cheaper
+488,2008-09-25T17:00:00,decrease,-0.24,enjoying some home made Apple Pie (made with home made Apples) and a cuppa
+489,2008-09-25T17:00:00,decrease,-0.24,Meet Spike Lee at the Apple Store Soho @ 7:00pm. He'll be speaking about his new movie &quot;Miracle at St Anna.&quot; I'll be in a white polo &amp; hat.
+490,2008-09-25T17:00:00,decrease,-0.24,@elmofromok The Daily Show equated it to 2000 McDonald's apple pies for everyone. :P
+491,2008-09-25T17:00:00,decrease,-0.24,Apple tree. Blue bird. Empire state building. My neuro exam.
+492,2008-09-25T17:00:00,decrease,-0.24,@KatyLinda Jesus &lt;3's apple cinnamon candles on the dresser.
+493,2008-09-25T17:00:00,decrease,-0.24,"@jasonbroyles: thanks, but that's not much cheaper than Apple refurbs. gonna have to go pre-loved because of budget."
+494,2008-09-25T17:00:00,decrease,-0.24,The Apple Genius Bar folks are so picky about whether your broken iPod got wet. What am I supposed to listen to while in the shower? Jeez.
+495,2008-09-25T17:00:00,decrease,-0.24,"@club_is_open: you mean the &quot;scrollback&quot;? haven't had any trouble with Apple Term, and mine is &quot;unlimited&quot;."
+496,2008-09-25T17:00:00,decrease,-0.24,Meet Director Spike Lee at the Apple Store Soho today from 7:00pm- 8:00pm. He will be speaking about his new movie &quot;Miracle at St Anna.&quot;
+497,2008-09-25T17:00:00,decrease,-0.24,"wondering if with my Apple TV, renting HD movies, using video to chat in ASL et. al will bring me up against comcasts new limits? FIOS?"
+498,2008-09-25T17:00:00,decrease,-0.24,The blue-shirted Apple Store employees are what ... science officers? And the orange concierge? It's all so confusing.
+499,2008-09-25T17:00:00,decrease,-0.24,@kerawall yup. its very shiny! Now I just need a few airport expresses and an apple tv and i will have the coolest stereo ever!
+500,2008-09-03T17:00:00,decrease,-0.18,Lastnight Kiji made Apple Crisps. Amazing! Also Spore comes out this weekend. Expect a lot of twitted updates about it on Sunday or Monday.
+501,2008-09-03T17:00:00,decrease,-0.18,I can't eat at big presos. Currently being sustained by 1/4 of a scone and an apple. Less to puke I guess.
+502,2008-09-03T17:00:00,decrease,-0.18,"Yikes! A single strawberry has 30 calories?! Man, I could have a whole apple for that."
+503,2008-09-03T17:00:00,decrease,-0.18,i'm at the apple store now :) on regent street
+504,2008-09-03T17:00:00,decrease,-0.18,showing the apple ropes to a new mac user
+505,2008-09-03T17:00:00,decrease,-0.18,"@kevinrose I'd appreciate if Apple also introduced iTunes movie rentals in Europe, along to iTunes 8"
+506,2008-09-03T17:00:00,decrease,-0.18,"is waiting for a train, still hungry for snacks. An apple just doesn't cut it!"
+507,2008-09-03T17:00:00,decrease,-0.18,What do you think Apple's media event will bring next week?  Speculating is always fun...
+508,2008-09-03T17:00:00,decrease,-0.18,Anyone else experiencing issues with Apple stuff lately that makes it feel like they are becoming just like every other company?
+509,2008-09-03T17:00:00,decrease,-0.18,Just had the worst parking experience ever - but we're still going to the Apple Store!!
+510,2008-09-03T17:00:00,decrease,-0.18,@kevinrose Remind me to thank Apple for borrowing Pandora's functionality for use in iTunes
+511,2008-09-03T17:00:00,decrease,-0.18,"Backing up my computer, and aperture vaults in prep for going to the apple store. I don't know what'll happen. :P"
+512,2008-09-03T17:00:00,decrease,-0.18,"Sore throat? Gargle with apple cider vinegar in a glass of warm water, spit it out, then swallow a mouthful. Do every hour."
+513,2008-09-03T17:00:00,decrease,-0.18,"apple, I'm sorry, but Spaces is a flatulent idiot-savant sitting on my desktop. how does it always know the *worst* thing to do?"
+514,2008-09-03T17:00:00,decrease,-0.18,@sachaqs they have to differentiate themself from Apple :-)
+515,2008-09-03T17:00:00,decrease,-0.18,Newest flavor on Limited Edition board:  APPLE PIE
+516,2008-09-03T17:00:00,decrease,-0.18,New apple bran muffin at Starbucks is really good
+517,2008-09-03T17:00:00,decrease,-0.18,@abooth202 I did... it doesn't seem to take notice of that one.. heh.. why am I annoyed at Apple again?
+518,2008-09-03T17:00:00,decrease,-0.18,2 min Quiz = An Apple iPhone will be delivered* to your door!
+519,2008-09-03T17:00:00,decrease,-0.18,Soon it will be apple picking season. But which weekend is the best?
+520,2008-09-03T17:00:00,decrease,-0.18,Apple will Introduce new additions to the ipod Family & some price cuts !! Sweet.. Do i hear a thousand shouts for the Iphone?? :-) :-)
+521,2008-09-03T17:00:00,decrease,-0.18,"@moniquemadrid I think you mean Apple Store, but we forgive you. This time."
+522,2008-09-03T17:00:00,decrease,-0.18,Therefore: is Google becoming Apple-like?
+523,2008-09-03T17:00:00,decrease,-0.18,"@adlopa Apple's PR folks must have the easiest PR job in the world. It's either ""Worship time!"" or ""No comment"""
+524,2008-09-03T17:00:00,decrease,-0.18,@baratunde you may have some bad RAM or some other hardware related issue. Reco you call Apple tech support.
+525,2008-09-03T17:00:00,decrease,-0.18,Looking for my Flat Earth Apple Cinnamon chips and starting to think that my dogs had a health food party while I wasn't paying attention.
+526,2008-09-03T17:00:00,decrease,-0.18,An apple for breakfast today... I wonder if it will cure my headache?
+527,2008-09-03T17:00:00,decrease,-0.18,Eating an apple and thinking I need to visit the dentist
+528,2008-09-03T17:00:00,decrease,-0.18,@KarrineSteffans - You should drop by the store and grab some Apple Bottoms
+529,2008-09-03T17:00:00,decrease,-0.18,"Former apple employee and nurse turned cancer survivor gets her bundle, and I'm going to throw in some things she didn't ask for."
+530,2008-09-03T17:00:00,decrease,-0.18,@missrogue Try re-starting your iPhone by holding down power and Home button - until Apple logo appears
+531,2008-09-03T17:00:00,decrease,-0.18,"@cwilso I did notice in all their talk about it, that Apple's name isn't connected to Webkit."
+532,2008-09-03T17:00:00,decrease,-0.18,"""Apple PR are pulling all the stops out, going as far as to push foreign tech journalists to fly to San Francisco next week."" Orly?"
+533,2008-09-03T17:00:00,decrease,-0.18,At the Apple Store - let's hope they do the right thing and replace my iPhone...
+534,2008-09-03T17:00:00,decrease,-0.18,"Will apple take the rap for the AT&T outage like Blackberry does? This is obviously not an Apple  issue, but who besides iPhone owners care?"
+535,2008-09-03T17:00:00,decrease,-0.18,@peterscampbell I've asked to be allowed to use Apple Mail but IT wants to research how it does w/Exchange 1st.
+536,2008-09-03T17:00:00,decrease,-0.18,What should I use to clean my Apple keyboard?
+537,2008-09-03T17:00:00,decrease,-0.18,N1 is working on a apple project this week & has called family to find out what is favorite color of apple is. She's taking this seriously!
+538,2008-09-03T17:00:00,decrease,-0.18,@Grevious edge has been having major issues for the last few days.  Everyone I deal with forgets AT&T provides service. Not apple. Assholes
+539,2008-09-03T17:00:00,decrease,-0.18,Hurry up Apple and announce your changes for macbooks so I can buy one!
+540,2008-09-03T17:00:00,decrease,-0.18,"Waiting for silly, little Windows Mobile device to charge... it's even slow at that compared to Nokia and Apple."
+541,2008-09-03T17:00:00,decrease,-0.18,"I'm listening to ""Apple Shampoo"" by Blink 182 from ""Dude Ranch"""
+542,2008-09-03T17:00:00,decrease,-0.18,I've gone from pro-Aple leanings to completly anti-Apple. Apple is the retail version of John McCain and I'm looking to buy an Obama laptop.
+543,2008-09-03T17:00:00,decrease,-0.18,Almost at the Apple Store! Yeeeeeeeeaaaaaahhh!!!!!!!
+544,2008-09-03T17:00:00,decrease,-0.18,things that take too long to come in the mail: 1. my new lease. 2. my apple credit card.
+545,2008-09-03T17:00:00,decrease,-0.18,"Woo hoo! I have just picked up my mac. New logic board costing £600. I'm so glad I bought apple care, so I do not pay."
+546,2008-09-03T17:00:00,decrease,-0.18,"@WritRams Gotta ask, what is a naturally-sugar-FILLED organic apple?"
+547,2008-09-03T17:00:00,decrease,-0.18,"@Apple_Antwerp Good luck, and have fun! I'll come running to you for advice when *my* first day arrives. Three more weeks to go..."
+548,2008-09-03T17:00:00,decrease,-0.18,@kevinrose Hopefully iTunes 8 will be a clean releases that breaks Apple's cursed summer. And I hope Steve has had a burger since last time.
+549,2008-09-03T17:00:00,decrease,-0.18,"When Apple uses the word ""genius"" in its product/service naming strategy, the arrogance level makes me want to pound my head against a wall"
+550,2008-09-03T17:00:00,decrease,-0.18,@kevinrose is apple PR paying you? Cred to if they do you deserve it! thumbs up on the info.
+551,2008-09-03T17:00:00,decrease,-0.18,I got an press pass to the Apple secret launch next week!
+552,2008-09-03T17:00:00,decrease,-0.18,Meant to mention this yesterday: Google pulled an Apple and put Chrome icons on my Desktop and Quick Launch without asking. Grr.
+553,2008-09-03T17:00:00,decrease,-0.18,*sigh* How come Apple can make people feel luckier than Sarah Palin?
+554,2008-09-03T17:00:00,decrease,-0.18,@AshleyJoyce Getting new toys? My favorite combo is Panera Bread and Apple Store next door.
+555,2008-09-03T17:00:00,decrease,-0.18,"Would love to update all my iPhone apps, but apparently Apple removed the ""Update All"" option on the App Store iPhone application (thanks!)"
+556,2008-09-03T17:00:00,decrease,-0.18,@samjane I nominate SJ as the guild smarty person of the day! *hands SJ an apple
+557,2008-09-03T17:00:00,decrease,-0.18,"@adalgiso I hear ya, me drinking slim fast and an apple bar for lunch"
+558,2008-09-03T17:00:00,decrease,-0.18,Twitter I'm sending back al this crapy apple product! Getting a refund for it all
+559,2008-09-03T17:00:00,decrease,-0.18,"Why in the world did Apple remove ""Update All"" from the iPhone app Store?!?"
+560,2008-09-03T17:00:00,decrease,-0.18,- is gonna eat an apple!
+561,2008-09-03T17:00:00,decrease,-0.18,going to class then off to the apple store... should i get a macbook air for traveling?
+562,2008-09-03T17:00:00,decrease,-0.18,"9 am: apple, 2 slices of beef jerky, a cup of water"
+563,2008-09-03T17:00:00,decrease,-0.18,Just got back from meeting Will Wright at the Apple store spore demo
+564,2008-09-03T17:00:00,decrease,-0.18,@jagreda Thanks for the info.  Express is fine for now.  Why doesn't our Apple store run any FC classes?
+565,2008-09-03T17:00:00,decrease,-0.18,Eating some Carmel Apple pie
+566,2008-09-03T17:00:00,decrease,-0.18,it would be great if itunes and apple tv could work together reliably
+567,2008-09-03T17:00:00,decrease,-0.18,@granata Could not agree more about Entourage. Any feedback from Apple lovers on this?
+568,2008-09-03T17:00:00,decrease,-0.18,Just read another lawsuit for apple and att.  To many 3g iPhones slowing down the network. Yeh that's it. What about the other 3g handsets
+569,2008-09-03T17:00:00,decrease,-0.18,@crzy4fishy Have an apple...?
+570,2008-09-03T17:00:00,decrease,-0.18,"@joeruiz - On the other hand, if you run a rumor site like Apple Insider, you would have a more liberal policy. It's all about transparency."
+571,2008-09-03T17:00:00,decrease,-0.18,"Wondering what Apple will announce on 9 September ... Or more to the point, will it include my son's next birthday gift!"
+572,2008-09-03T17:00:00,decrease,-0.18,Realizes that Apple products are nothing but good software in a pretty package.
+573,2008-09-03T17:00:00,decrease,-0.18,At Apple Store. Always fun! The gym next!
+574,2008-09-03T17:00:00,decrease,-0.18,iPod Crisis over.  Restore seems to not have upset the apple cart at all.
+575,2008-09-03T17:00:00,decrease,-0.18,"Finally, apple orchards are producing around here. Looking up new/old dishes to try this fall."
+576,2008-09-03T17:00:00,decrease,-0.18,WTF! Why didn't anyone tell me Apple Mail had threaded 'conversations' view? This is awesome!
+577,2008-09-03T17:00:00,decrease,-0.18,@thanashyam it just gets to a point where to be cool enough u need to ve anythin apple or google release... stupid...
+578,2008-09-03T17:00:00,decrease,-0.18,Eating apple tart for breakfast.  Nyom.
+579,2008-09-03T17:00:00,decrease,-0.18,"seemed like a good idea to us at 2am: a sack of 24 crystal burgers, 4 large fries, 3 large chicken chunks, and an apple turnover..."
+580,2008-09-03T17:00:00,decrease,-0.18,@samsoffes sweet man...finally got your issues with apple resolved?
+581,2008-09-03T17:00:00,decrease,-0.18,i just opted out of apple emails; however I just wanted to opt out of email for students only...I don't think they allow you do that!
+582,2008-09-03T17:00:00,decrease,-0.18,In the Big Apple today
+583,2008-09-03T17:00:00,decrease,-0.18,This golden delicious apple isn't so delicious. Who on earth likes spongy apples?!
+584,2008-09-03T17:00:00,decrease,-0.18,Life is hard when your MacBook has died :-( The Apple Authorised Service Partner offers a ray of hope though :-)
+585,2008-09-03T17:00:00,decrease,-0.18,"Apple, this is your chance to shine! Implement Chrome's tab behaviors into Safari and you could win more users!"
+586,2008-09-03T17:00:00,decrease,-0.18,Wondering what Apple will show off on the 9th - can't wait!!
+587,2008-09-03T17:00:00,decrease,-0.18,What's up with ATT? I pay a lot for this plan. Apple gave 3 free months for mobileme issues; how about ATT follows suit?
+588,2008-09-03T17:00:00,decrease,-0.18,Recreated an Apple keyboard from chipboard.  Major pita and I don't wanna see any chipboard for a llong time.  Crit went pretty well though
+589,2008-09-03T17:00:00,decrease,-0.18,"Can't connect w/my new iPhone. Fuck you, Apple. Experience sux if I can't connect to iNet or email. Tried resets (nwork & device). nuthin'."
+590,2008-09-03T17:00:00,decrease,-0.18,wondering if Apple is gonna release a new MacBook model next week.
+591,2008-09-03T17:00:00,decrease,-0.18,"@kevinrose When did you become ""The Apple-rumor-guy""?"
+592,2008-09-03T17:00:00,decrease,-0.18,"Oh, other reason Chrome isn't on Linux: Apparently it's built from Apple's WebKit (Safari libs), which aren't on Linux."
+593,2008-09-03T17:00:00,decrease,-0.18,@brianbrianbrian Same reason we never got B-Splines in Shake.  Someone at Apple simply hates us.
+594,2008-09-03T17:00:00,decrease,-0.18,@skategreat2010 When are you getting that fixed? Did you call Apple?
+595,2008-09-03T17:00:00,decrease,-0.18,@cassiebee LOLOL. Next it'll be apple cozy-cozies. Ridic.
+596,2008-09-03T17:00:00,decrease,-0.18,ohmystars-it's only getting to 80 today. Currently it's 64. My windows are open. My apple pie candles are burning & there is fresh coffee.
+597,2008-09-03T17:00:00,decrease,-0.18,"Dear Apple Inc.: Why is my charger never where my MacBook is, so that I have to walk at least THREE steps!?"
+598,2008-09-03T17:00:00,decrease,-0.18,Lily and I are sharing an apple from our very own tree. Yum!
+599,2008-09-03T17:00:00,decrease,-0.18,"midmorning snack organic apple, halfcup blueberries and almonds"
+600,2013-11-05T17:00:00,neutral,0.01,"RT @chrisdelia: Hey Apple, where the fuck is Cupertino?"
+601,2013-11-05T17:00:00,neutral,0.01,@hautau_kira  hey can I have this apple?? That you left in my car?? Lmao
+602,2013-11-05T17:00:00,neutral,0.01,"Dear Skittles,       Please change green skittles back to Lime, Green Apple is awful. Thank you,Zamboni"
+603,2013-11-05T17:00:00,neutral,0.01,"@lukelarris You do realize Google doesn't make any apps for windows RT/phone while MS makes apps for both Apple OSX, iOS, and Android."
+604,2013-11-05T17:00:00,neutral,0.01,@jarredhaas don't you need Apple TV for the air server to work #highawk
+605,2013-11-05T17:00:00,neutral,0.01,"@bhg70 Have you tried the ""magic handshake?"" I thought my 4 GB Nano was dead &amp; gone, but it came back. Check Apple Support for reset deets."
+606,2013-11-05T17:00:00,neutral,0.01,@relijahm @RahsaanBall what if apple wasn't trying to make phones for the masses? What if they made a techie phone?
+607,2013-11-05T17:00:00,neutral,0.01,So @SamsungMobile paid their 1 billion dollars due to @apple in nickels 😭😂😭😂😭😂😭😂
+608,2013-11-05T17:00:00,neutral,0.01,"""@awade1222: Stressing out cause we can't decide how many apple ciders to buy today 😖@carlylaurent"" our daily struggle"
+609,2013-11-05T17:00:00,neutral,0.01,@itssbriaa sound like you need a ride to the apple store
+610,2013-11-05T17:00:00,neutral,0.01,@AppLe_tiiNii aww we'll try not too
+611,2013-11-05T17:00:00,neutral,0.01,I freaking hate Apple.
+612,2013-11-05T17:00:00,neutral,0.01,RT @BKs_KWill: @_SilenceIsSound Eve herbed Adam into eating the apple. #triflinghoe
+613,2013-11-05T17:00:00,neutral,0.01,"@hemenwaykid I do. That would be nice. Haha. If there was an Apple store within 3 hours I'd go talk to someone, but there's not."
+614,2013-11-05T17:00:00,neutral,0.01,Hahaha what a feeling! RT @liramahabane: Baked...like an apple pie baby.
+615,2013-11-05T17:00:00,neutral,0.01,RT @dibla1982: @stefirulfi the future is the big apple!!
+616,2013-11-05T17:00:00,neutral,0.01,"RT @chuggaaconroy: The Apple Store employee said ""Congrats on your new iPad"" like I just had a baby. Then again, it certainly cost enough t…"
+617,2013-11-05T17:00:00,neutral,0.01,@lilreddmonroe them thangs horrible I'm more of a Apple orange type of nigga
+618,2013-11-05T17:00:00,neutral,0.01,I'm trying to make these caramel apple pie cookies that I saw though
+619,2013-11-05T17:00:00,neutral,0.01,11:10 my sis bday #TurnUp on apple juice Haha
+620,2013-11-05T17:00:00,neutral,0.01,I'm gonna cry when it's no longer apple cider season 🍎☕️
+621,2013-11-05T17:00:00,neutral,0.01,This nigga is a damn liar but he got it honest. The apple never falls far from the tree.
+622,2013-11-05T17:00:00,neutral,0.01,Brought a cherry poor tart 😑 the shit was apple cinnamon 😑😑😑😑😑
+623,2013-11-05T17:00:00,neutral,0.01,"Apple inks $578 million deal for sapphire production: The company has signed a deal with GT Advanced Technologies, which will produce..."
+624,2013-11-05T17:00:00,neutral,0.01,Nike+ Move M7-ready app available to be put through the paces: The app was unveiled at Apple's iPhone 5S event in September and allow...
+625,2013-11-05T17:00:00,neutral,0.01,RT @damara_apple: I can't believe this years VS fantasy bra is 10 million dollars......
+626,2013-11-05T17:00:00,neutral,0.01,"RT @chuggaaconroy: The Apple Store employee said ""Congrats on your new iPad"" like I just had a baby. Then again, it certainly cost enough t…"
+627,2013-11-05T17:00:00,neutral,0.01,@ReadySetRock75 apple! :)
+628,2013-11-05T17:00:00,neutral,0.01,"Organic apple for breakfast daily, keeps the doc away"
+629,2013-11-05T17:00:00,neutral,0.01,Fries+apple juice♥
+630,2013-11-05T17:00:00,neutral,0.01,"Fuck yall, I got apple cider"
+631,2013-11-05T17:00:00,neutral,0.01,This apple woke me up
+632,2013-11-05T17:00:00,neutral,0.01,“@_MeshaGorgeous: @@_ChocolatesBACK You wanna buy me some apple bees ?” Lol Yeah Baby.
+633,2013-11-05T17:00:00,neutral,0.01,"1st Thing Ima Do When I Get Them Off Is Eat An Apple.Havent Had One In 2 Years! Way I See It,An Apple Is Made To Bite Not That SpoonFed Shit"
+634,2013-11-05T17:00:00,neutral,0.01,IT'S 2013 APPLE SHOULD BE MAKING THERE SHIT WATERPROOF ALREADY INSTEAD OF COLORFUL LIKE WTH IS THIS IM SUING
+635,2013-11-05T17:00:00,neutral,0.01,“@ChloeCourtney22: SOMEONE COME WATCH NETFLIX WITH ME ALL DAY AND CUDDLE AND EAT CARMEL APPLE POPS K THANKS”
+636,2013-11-05T17:00:00,neutral,0.01,"""@EssentialFact: Everything you say to Siri on your iPhone is sent to Apple, and Apple has the right to share it."""
+637,2013-11-05T17:00:00,neutral,0.01,@iTashenG yeah I personally think Apple makes way better wallpapers than Google.
+638,2013-11-05T17:00:00,neutral,0.01,@DebbyRyan DO U  PREFER PUMPKIN PIE OR APPLE?? :)
+639,2013-11-05T17:00:00,neutral,0.01,"Chicken nuggets, apple's and butter butters for life"
+640,2013-11-05T17:00:00,neutral,0.01,@Lukenate2 @RyanDolan123 @J_David1999 don't even bother with this guy. Apple brainwashed him beyond recovery.
+641,2013-11-05T17:00:00,neutral,0.01,@_SilenceIsSound Eve herbed Adam into eating the apple. #triflinghoe
+642,2013-11-05T17:00:00,neutral,0.01,@DebbyRyan DO U PREFER PUMPKIN PIE OR APPLE??  :)
+643,2013-11-05T17:00:00,neutral,0.01,My Sony headphones didn't even last as long as the crappy Apple ones that come with a new phone. #NotCool
+644,2013-11-05T17:00:00,neutral,0.01,@DebbyRyan DO U PREFER PUMPKIN PIE OR APPLE?? :)
+645,2013-11-05T17:00:00,neutral,0.01,iPod Touch conks off for 2nd time in less than 18 months. Had to replace my iPad early this yr. Apple's on the verge of losing a fan boy.
+646,2013-11-05T17:00:00,neutral,0.01,@LethalBizzle I'm switching from Android to Apple after 4 years so I vote iPhone
+647,2013-11-05T17:00:00,neutral,0.01,Just fucking devoured an apple #nobraces #noproblems
+648,2013-11-05T17:00:00,neutral,0.01,"I just want a white woman to bake apple pies for me and sit them in the window for our dog to fuck up. Ya know, the American dream."
+649,2013-11-05T17:00:00,neutral,0.01,@madu_03 yoooo.. Write me and I need ur Apple ID password ASAP so dm me
+650,2013-11-05T17:00:00,neutral,0.01,@i0n1c by being a MFI partner and asking Apple
+651,2013-11-05T17:00:00,neutral,0.01,@meghow_ is my hero for brining me an apple to class #LoveYou #AnAppleADay
+652,2013-11-05T17:00:00,neutral,0.01,Apple smoothie = disgusting
+653,2013-11-05T17:00:00,neutral,0.01,"""@KristinaRibali: I see no reason why apple crisp shouldn't be an acceptable breakfast. Fruit and oatmeal ftw."". It is."
+654,2013-11-05T17:00:00,neutral,0.01,"RAW STAR CAFE Specials Today: Mango ""Cheesecake"" #Vegan #Raw #GlutenFree , Creamed Spinach on Rice, Apple Pie Smoothie &amp; ""Eggnog"""
+655,2013-11-05T17:00:00,neutral,0.01,RT @cocoalabs: Using my iPad while plane takes off feels funny like the first time you paid for stuff at the apple store with app and walke…
+656,2013-11-05T17:00:00,neutral,0.01,grr sysco is parked outside apple #flashbacks #ptsd #GMTsummerstaff
+657,2013-11-05T17:00:00,neutral,0.01,"Adding i-devices to already established ecosystem is... phew, such a confusing adventure through a maze. #Apple"
+658,2013-11-05T17:00:00,neutral,0.01,@BostonElections @dbernstein mine is Pi especially Apple
+659,2013-11-05T17:00:00,neutral,0.01,My iPhone can express more emotions than me? What!? Well done apple 👌
+660,2013-11-05T17:00:00,neutral,0.01,RT @deckarep: When Apple finally enables #WebGL Safari for iOS I seriously think #pixijs is going to eat the app-store for breakfast.
+661,2013-11-05T17:00:00,neutral,0.01,I won't be happy unless Apple replaces Siri's voice with Morgan Freeman's.
+662,2013-11-05T17:00:00,neutral,0.01,My boy!! “@liramahabane: Baked...like an apple pie baby.”
+663,2013-11-05T17:00:00,neutral,0.01,@daniellemcam do you  prefer pumpkin pie or apple?? :)
+664,2013-11-05T17:00:00,neutral,0.01,Apple TV after class 👍
+665,2013-11-05T17:00:00,neutral,0.01,!! RT @DirtyBaySoldier: Officially had to block a number on my iPhone... Thank you apple for that feature
+666,2013-11-05T17:00:00,neutral,0.01,"Missed out here, and google and apple...@mashable: If you invested $1,000 in Amazon in 1997, you'd be $239,045 richer by now"
+667,2013-11-05T17:00:00,neutral,0.01,@daniellemcam do you prefer pumpkin pie or apple?? :)
+668,2013-11-05T17:00:00,neutral,0.01,Really want a toffee apple🍭🍎
+669,2013-11-05T17:00:00,neutral,0.01,Apple is inconsiderate AF to not give at a least a mute feature for these groups
+670,2013-11-05T17:00:00,neutral,0.01,"RT @Dhealthstore: An onion, apple and potato all have the same taste. The differences in flavour are caused by their smell."
+671,2013-11-05T17:00:00,neutral,0.01,@GeersAustin go ahead and drink a Mountain Dew and eat red lobster in front of me. Straight shot in the Adam's apple
+672,2013-11-05T17:00:00,neutral,0.01,@aakarpost :-)) Thanks! Just wondering why this Apple stuff makes all the techno-savvy go blind in their products :P
+673,2013-11-05T17:00:00,neutral,0.01,oh i follow sheket apple lel asafgama3aaaaaaaaaa fee apple gedeed nezel ismo apple air naal fee america bas ma nezelshi fee il suadiya
+674,2013-11-05T17:00:00,neutral,0.01,@DevinAI12 do you prefer pumpkin pie or apple?  :)
+675,2013-11-05T17:00:00,neutral,0.01,So excited for tonight!!!!!!!! Even though I'll end up too cold to move my hands with a runny nose and a toffee apple stuck in my hair
+676,2013-11-05T17:00:00,neutral,0.01,@DevinAI12 do you prefer pumpkin pie or apple?? :)
+677,2013-11-05T17:00:00,neutral,0.01,I want another Carmel Apple 😫
+678,2013-11-05T17:00:00,neutral,0.01,@Apple_Moi sad life..
+679,2013-11-05T17:00:00,neutral,0.01,Blackberry and green apple. Surprisingly good.
+680,2013-11-05T17:00:00,neutral,0.01,Eating an apple in the shower was magical.
+681,2013-11-05T17:00:00,neutral,0.01,@_Taylor_Gray_ do you prefer pumpkin pie or apple?? :)
+682,2013-11-05T17:00:00,neutral,0.01,@Original_Rofler @TheCreamyRat99 @reecehursty91 @Chloe1591 I remember playing football in the chiller with an apple until it exploded haha
+683,2013-11-05T17:00:00,neutral,0.01,"I don't like toffee but I want a toffee apple. Okay, that makes sense... #BonfireNightProblems"
+684,2013-11-05T17:00:00,neutral,0.01,And then Apple just decides to release the iPhone 5s and the iPhone 5c
+685,2013-11-05T17:00:00,neutral,0.01,This Soup And Apple Cider &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+686,2013-11-05T17:00:00,neutral,0.01,"What is your favorite #apple-centric Fall dish? We'll RT our favorites, with extra points going to link to #recipes!"
+687,2013-11-05T17:00:00,neutral,0.01,Apple with peanut butter are life 👅💦🍏
+688,2013-11-05T17:00:00,neutral,0.01,"@MissCandySarah try twinnings apple crunch tea, no milk nor sugar and drinkable."
+689,2013-11-05T17:00:00,neutral,0.01,Win the new #Apple #iPad in the Experience Advertising #Sweepstakes! @experienceads
+690,2013-11-05T17:00:00,neutral,0.01,"""@rivasapolonia: Lol that sounds so depressing I'm sorry"" yeah fu apple you ruined my day and I just woke up! :( #CutsforBieber"
+691,2013-11-05T17:00:00,neutral,0.01,@riley_ed just been told by Apple it's probably down to intensive video casting.I thought macs could handle that but I know u screencast too
+692,2013-11-05T17:00:00,neutral,0.01,@JonathanSeals iOS 6 and mountain lion. Tsk tsk apple
+693,2013-11-05T17:00:00,neutral,0.01,"My RAW STAR CAFE Specials Today: $25 for Sampler 3 Entrees, Eggplant Apple Cinnamon Stuffing, Pumpkin Soup, Sweet Potato Pie!"
+694,2013-11-05T17:00:00,neutral,0.01,"Why Apple hasn't opened up #iBooks to Android yet is beyond me. They would be opening up new revenue opportunities, wouldn't they?"
+695,2013-11-05T17:00:00,neutral,0.01,"RT @JGKunzler: How can Apple sell an LTE iPad with a huge Retina display for $629, but iPhones start at $649? WTF?"
+696,2013-11-05T17:00:00,neutral,0.01,"RT @JGKunzler: How can Apple sell an LTE iPad with a huge Retina display for $629, but iPhones start at $649? WTF?"
+697,2013-11-05T17:00:00,neutral,0.01,Tori sprayed perfume and is killing me and the rest of our table. I taste Vermont Honey Apple now instead of my lunch.
+698,2013-11-05T17:00:00,neutral,0.01,"Yo, I'm a hot and bothered astronaut crashin' while Jackin' off to bufferin' vids of Asher Roth eatin' apple sauce"
+699,2013-11-05T17:00:00,neutral,0.01,RT @AppLe_tiiNii: I'm completely covered up in his love 😍❤️
+700,2017-03-27T17:00:00,neutral,0.01,@VodafoneIN When will 4G service start on apple devices in pune?Could you provide a date please?
+701,2017-03-27T17:00:00,neutral,0.01,Apple　Pen ~~~~ !!!!
+702,2017-03-27T17:00:00,neutral,0.01,"RT @LHKeyHolders: Search Ice Billion Berg on iTunes/Apple Music, Spotify, Tidal &amp; Google Play!"
+703,2017-03-27T17:00:00,neutral,0.01,RT @red_porter2: @EmmaleaT that was a good apple too!😇
+704,2017-03-27T17:00:00,neutral,0.01,RT @tyler_warnecke: Is anyone else having issues registering for #WWDC17? #WWDC #Apple
+705,2017-03-27T17:00:00,neutral,0.01,"RT @BGBandita: Dear @Apple, when I say ""don't show me this message again"" I mean ""DON'T SHOW ME THIS MESSAGE AGAIN!"""
+706,2017-03-27T17:00:00,neutral,0.01,"RT @iDeviceHelpus: it's official, Apple has released iOS 10.3 to Everyone Worldwide💥Jailbreakers Stay AWAY!!!"
+707,2017-03-27T17:00:00,neutral,0.01,Just did my first Apple Pay transaction and I've never felt so alive!!!!!!!
+708,2017-03-27T17:00:00,neutral,0.01,"2am, Apple juice an instrumentals 🙏🏾"
+709,2017-03-27T17:00:00,neutral,0.01,"""Ever on and on, I continue circling with nothing but my hate in a carousel of agony"" -Bad Apple"
+710,2017-03-27T17:00:00,neutral,0.01,RT @zoehopsx: The sound of someone biting an apple really infuriates me 😖
+711,2017-03-27T17:00:00,neutral,0.01,ios 10.3 released @AppleSupport @Apple
+712,2017-03-27T17:00:00,neutral,0.01,#iOS 10.3 is Finally released by #AppleQuite like my #Jailbreak so avoiding it like #Arsenal avoid making a title challenge ......
+713,2017-03-27T17:00:00,neutral,0.01,@MuhammadWasim77 no comparison ..... Always comparison against Apple vs Apple
+714,2017-03-27T17:00:00,neutral,0.01,#Apple update day :)
+715,2017-03-27T17:00:00,neutral,0.01,@TrevHotch The IC seems to find work-arounds for a lot. Can’t remember ultimate outcome of IC demands for Apple security keys.
+716,2017-03-27T17:00:00,neutral,0.01,@SimonHurstUX Do you mean like Apple and Android Pay usage?
+717,2017-03-27T17:00:00,neutral,0.01,"Apple Music execs get IT. Well said, Iovine."
+718,2017-03-27T17:00:00,neutral,0.01,But then again her moms weave looks horrible so..apple doesn't fall far from the nappy tree.
+719,2017-03-27T17:00:00,neutral,0.01,"RT @leftarmisme: Much like Apple products, I also, am only compatible with myself."
+720,2017-03-27T17:00:00,neutral,0.01,Is anyone else having issues registering for #WWDC17? #WWDC #Apple
+721,2017-03-27T17:00:00,neutral,0.01,ios 10.3 I'm on my way I'm actually updating my iPhone 7 thank you @Apple the wait was SO long gotta be worth it !! 💯🙏🏽📱
+722,2017-03-27T17:00:00,neutral,0.01,"@AngelabahBah's Apple Crumble, in a tupperware box, the next day. Oh. My. God. #foodheaven."
+723,2017-03-27T17:00:00,neutral,0.01,"Keep the good times flowing with a canvas wine tote that easily stashes a bottle or two. Color(s): black with red, bright pink with apple..."
+724,2017-03-27T17:00:00,neutral,0.01,The dad trying to fix his phone at the Apple Store gives me life. He's so sweet. Be my dad wtf
+725,2017-03-27T17:00:00,neutral,0.01,"RT @wikileaks: Apple's claim that it has ""fixed"" all ""vulnerabilities"" described in DARKMATTER is duplicitous. EFI is a systemic problem, n…"
+726,2017-03-27T17:00:00,neutral,0.01,"@lynnlauren1421 Girl you could hand me the core of an apple and I'd be like ""Yes thank you so much 😭😭😭"""
+727,2017-03-27T17:00:00,neutral,0.01,"RT @iDeviceHelpus: it's official, Apple has released iOS 10.3 to Everyone Worldwide💥Jailbreakers Stay AWAY!!!"
+728,2017-03-27T17:00:00,neutral,0.01,"RT @iDeviceHelpus: it's official, Apple has released iOS 10.3 to Everyone Worldwide💥Jailbreakers Stay AWAY!!!"
+729,2017-03-27T17:00:00,neutral,0.01,RT @gloDupsam: Apple juice over Orange Juice
+730,2017-03-27T17:00:00,neutral,0.01,RT @The_Retail_Rant: @phatmon66 my favorite is the guy dictating his shopping list to his Apple Watch whilst shopping. Short term memory mu…
+731,2017-03-27T17:00:00,neutral,0.01,I want a Apple pie from Burger King
+732,2017-03-27T17:00:00,neutral,0.01,Apple Releases watchOS 3.2 With Theater Mode and SiriKit
+733,2017-03-27T17:00:00,neutral,0.01,"Apple Releases iOS 10.3 With Find My AirPods, APFS, App Store Review Tweaks and More"
+734,2017-03-27T17:00:00,neutral,0.01,If I spent as much time studying as I spent untangling my apple headphones I would have a 7.0
+735,2017-03-27T17:00:00,neutral,0.01,"@apple no urgency what so ever to help a loyal long term customer, this has been unbelievable, so much time, energy, money lost over this"
+736,2017-03-27T17:00:00,neutral,0.01,"#Apple Releases #iOS 10.3 With Find My AirPods, APFS, App Store Review Tweaks and More...!"
+737,2017-03-27T17:00:00,neutral,0.01,"RT @wikileaks: Claims circulated that ""CIA hacking tools don't work on newer Apple products"" are false. There are many Apple attacks in #Va…"
+738,2017-03-27T17:00:00,neutral,0.01,@TayNunn0 Apple bees😂😂😂
+739,2017-03-27T17:00:00,neutral,0.01,"RT @_NickFlowers_: Today, I went to the Apple Store to get my MacBook fixed. I walked out with a new iPhone... and my MacBook still broke."
+740,2017-03-27T17:00:00,neutral,0.01,#Apple has unleashed #iOS103 (14E277) OTA for #iPhone #iPad series🖖
+741,2017-03-27T17:00:00,neutral,0.01,@MacRumors how about apple music bugs?
+742,2017-03-27T17:00:00,neutral,0.01,Apple Music &gt;&gt;&gt;
+743,2017-03-27T17:00:00,neutral,0.01,"Slow Ride Monday specials:$6.99 Meatloaf Dinner$3.25 Sam Adams bottles$4.50 Crown Royal, Apple or Vanilla"
+744,2017-03-27T17:00:00,neutral,0.01,Apple Stock Price: 140.96 #apple $AAPL
+745,2017-03-27T17:00:00,neutral,0.01,"Announcing the newest apple product: The iSIS! Our first ever automated sister, complete with all your favorite sister traits that you need."
+746,2017-03-27T17:00:00,neutral,0.01,I'd like to visit Apple Isle!
+747,2017-03-27T17:00:00,neutral,0.01,"RT @iDeviceHelpus: it's official, Apple has released iOS 10.3 to Everyone Worldwide💥Jailbreakers Stay AWAY!!!"
+748,2017-03-27T17:00:00,neutral,0.01,@ailbhe @micheinnz I would love that apple clafouti recipe. &lt;3
+749,2017-03-27T17:00:00,neutral,0.01,Read this for Apple Watch.
+750,2017-03-27T17:00:00,neutral,0.01,"@Nord_Eh Talked to guy who works for Apple. Gave me some hope that if bill passes, ways to protect info will follow, but Q is how reliable."
+751,2017-03-27T17:00:00,neutral,0.01,"me: includes champagne, wine, and martinis in ""favorite foods""... anyways there's no filet mignon emoji @Apple"
+752,2017-03-27T17:00:00,neutral,0.01,"@carusoam1 Hi, the Apple AirPort is compatible with our modem. If you DM me your full address and phone #,  I can take a look for you. -SD"
+753,2017-03-27T17:00:00,neutral,0.01,RT @_thatYellowGal: @__chattychat yuppp that candy apple not gone be long gone 😂😂😂😂
+754,2017-03-27T17:00:00,neutral,0.01,"Words you never want to hear from a chorister ""I'm sure I can feel an Adam's apple"" 🍎 🍏 🙊🙊"
+755,2017-03-27T17:00:00,neutral,0.01,"RT @iDeviceHelpus: it's official, Apple has released iOS 10.3 to Everyone Worldwide💥Jailbreakers Stay AWAY!!!"
+756,2017-03-27T17:00:00,neutral,0.01,"A collective breath of anxiety at apple as they migrate all iOS devices to the new file system, this could go right or massively wrong#apple"
+757,2017-03-27T17:00:00,neutral,0.01,@Smamfa75 one of the most near unusable and nonuser friendly widespread pieces of software going. How could Apple make it so bad???
+758,2017-03-27T17:00:00,neutral,0.01,This morning I forgot: A) the salad I was going to have for lunchB) the apple I was going to eat as a snack and C) to take my meds.
+759,2017-03-27T17:00:00,neutral,0.01,"RT @IsTheStoreDown: Apple released 3 new iOS OTA Firmwares: iOS 9.0 (Build 14V249), iOS 3.2 (Build 14V249), iOS 3.2 (Build 14V6249)."
+760,2017-03-27T17:00:00,neutral,0.01,"RT @IsTheStoreDown: Apple released 3 new iOS OTA Firmwares: iOS 9.9.10.3 (beta) (Build 14E6277), iOS 9.9.10.3 (Build 14E277), iOS 10.3 (Bui…"
+761,2017-03-27T17:00:00,neutral,0.01,"RT @iDeviceHelpus: it's official, Apple has released iOS 10.3 to Everyone Worldwide💥Jailbreakers Stay AWAY!!!"
+762,2017-03-27T17:00:00,neutral,0.01,@Jamestown502 bro don't even get me started on older iPhones and how fast they die once Apple drops a new iOS 😡
+763,2017-03-27T17:00:00,neutral,0.01,"RT @wikileaks: Claims circulated that ""CIA hacking tools don't work on newer Apple products"" are false. There are many Apple attacks in #Va…"
+764,2017-03-27T17:00:00,neutral,0.01,@SirCaet also pretty sure there's no other addiction than lvl-ing your weapons in that game or finding an apple of eden or gourd
+765,2017-03-27T17:00:00,neutral,0.01,@solitaryxvx @OutlastRecords @widexawake it's on Spotify unfortunately not on Apple Music at the moment
+766,2017-03-27T17:00:00,neutral,0.01,"RT @IsTheStoreDown: Apple released 3 new iOS OTA Firmwares: iOS 9.9.10.3 (beta) (Build 14E6277), iOS 9.9.10.3 (Build 14E277), iOS 10.3 (Bui…"
+767,2017-03-27T17:00:00,neutral,0.01, apple released 10.3!
+768,2017-03-27T17:00:00,neutral,0.01,"RT @ZeeRight: I'm surprised iPhone users buy data like us, you'd think Apple would make special iData for them which can only be purchased…"
+769,2017-03-27T17:00:00,neutral,0.01,Break up with apple they said. PC's are better they said. It's been less than 24 hours and I'm two glitches away from loosing my shit
+770,2017-03-27T17:00:00,neutral,0.01,@lostfoundkeep enjoy the big apple
+771,2017-03-27T17:00:00,neutral,0.01,Apparently left my laptop on full brightness. I am so sorry to everyone sitting behind me #theyareallblindnow #imsosorry #apple
+772,2017-03-27T17:00:00,neutral,0.01,"@Mike_Hartley Right, and they seemed strongest in the 90s when Apple was a little weak."
+773,2017-03-27T17:00:00,neutral,0.01,"RT @iDeviceHelpus: it's official, Apple has released iOS 10.3 to Everyone Worldwide💥Jailbreakers Stay AWAY!!!"
+774,2017-03-27T17:00:00,neutral,0.01,@donasarkar not after using samsung/apple/android pay :)
+775,2017-03-27T17:00:00,neutral,0.01,Apple Juice 💜💍😻
+776,2017-03-27T17:00:00,neutral,0.01,"RT @iDeviceHelpus: it's official, Apple has released iOS 10.3 to Everyone Worldwide💥Jailbreakers Stay AWAY!!!"
+777,2017-03-27T17:00:00,neutral,0.01,"2017 Goal: Bake an apple pie from scratch, even do the crisscross crust on the top! 😋"
+778,2017-03-27T17:00:00,neutral,0.01,@__chattychat yuppp that candy apple not gone be long gone 😂😂😂😂
+779,2017-03-27T17:00:00,neutral,0.01,"OMG I'm so happy, a shopping trip in New York is all booked, I can't believe I've got the week to my selfie whilst they're in the big apple"
+780,2017-03-27T17:00:00,neutral,0.01,@MTNGhana when is it coming to iOS/Apple Store?
+781,2017-03-27T17:00:00,neutral,0.01,The apple has been a symbol of love. The Celts believed that the apple represented love because it lasted so long after being picked. #love
+782,2017-03-27T17:00:00,neutral,0.01,I just saw someone pay for the bus with their Apple Watch. #cool #tech
+783,2017-03-27T17:00:00,neutral,0.01,"it's official, Apple has released iOS 10.3 to Everyone Worldwide💥Jailbreakers Stay AWAY!!!"
+784,2017-03-27T17:00:00,neutral,0.01,I really hope that @Apple keeps the #ProductRed iPhone as a starting color option for the #iPhone8 #iPhone8Red
+785,2017-03-27T17:00:00,neutral,0.01,"Love #MyFitnessPal, but cannot synch data w apple fitness or apple health.  Is there an app that does? @AppleSupport"
+786,2017-03-27T17:00:00,neutral,0.01,RT @czahn34: If you don't have Apple Music you're messing up in a massive way
+787,2017-03-27T17:00:00,neutral,0.01,"If you haven't realized that Apple releases a new iPhone every fucking fall by now, you are an idiot."
+788,2017-03-27T17:00:00,neutral,0.01,"@YeOldeApple @ReadyUpLive Awww, thank you Apple! &lt;3"
+789,2017-03-27T17:00:00,neutral,0.01,I need these gbc dudes to put their sh*t on apple music
+790,2017-03-27T17:00:00,neutral,0.01,"@aajtak @laluprasadrjd 👉Position matters..!!!! 7 Apple: Rs.170/-  Apple 7: Rs.70,000/-"
+791,2017-03-27T17:00:00,neutral,0.01,"plot: theres a guy with a book that can kill people, and also some lanky guy with an apple. theres also a guy who never sits down because ??"
+792,2017-03-27T17:00:00,neutral,0.01,Apple Bees Waiter wanna suck me up I just Kno it❗😂
+793,2017-03-27T17:00:00,neutral,0.01,"@treverbfrank @robert_brukner @SenSanders Yet they create millions of jobs. If you want to complain look up how liberal apple, Microsoft"
+794,2017-03-27T17:00:00,neutral,0.01,@RollingLoud make an apple music playlist!
+795,2017-03-27T17:00:00,neutral,0.01,@AppleSupport Why is it when you send Apple your phone to fix you never get it back.  I thought that was considered stealing.
+796,2017-03-27T17:00:00,neutral,0.01,Apple of my eye 🔥🔥
+797,2017-03-27T17:00:00,neutral,0.01,@politicalelle @JesseKellyDC I think I'd have Apple Jacks somewhere.
+798,2017-03-27T17:00:00,neutral,0.01,@TheRickyDavila - Apple doesn't fall far from the tree
+799,2017-03-27T17:00:00,neutral,0.01,"like, I DO but I don't know where apple music got this information"
+800,2011-12-06T17:00:00,neutral,0.01,An apple a day keeps the doctor away
+801,2011-12-06T17:00:00,neutral,0.01,What's for #breakfast? Water first. Then org. granny smith apple. A bit later green vibrance greens powder mixed in org. Vanilla almond milk
+802,2011-12-06T17:00:00,neutral,0.01,#NeverTrustAGirlThat has an Adams Apple
+803,2011-12-06T17:00:00,neutral,0.01,@alumnistudent the apple store people are usually happy to oblige. But if you're tweeting you must be 90% done anyway!
+804,2011-12-06T17:00:00,neutral,0.01,Apple refurbished 2010 11 ″ 128GB MacBook Air available for $799
+805,2011-12-06T17:00:00,neutral,0.01,Apple Slippin Giving Me A 28.3 GB When I Ordered 32 !!! -_- What's That.
+806,2011-12-06T17:00:00,neutral,0.01,@GoHARDorSTFU #NeverTrustAGirlThat has a bigger Adam's Apple than u &lt;&lt; and bigger arms... lmao!
+807,2011-12-06T17:00:00,neutral,0.01,"@GwynethPaltrow the Apple doesn't fall far, my dear!"
+808,2011-12-06T17:00:00,neutral,0.01,RT @MrNickBick: When I reach 4000 Followers I'll be giving away 3 x Apple IPod Shuffles. U choose Colour too. FOLLOW & RT!!!
+809,2011-12-06T17:00:00,neutral,0.01,RT @donyelleboo: I am so thirsty. I want apple juice and a crazy straw.
+810,2011-12-06T17:00:00,neutral,0.01,lighting apple cinnamon and creamy custard scented candles!! #gettingintheholidayspirit
+811,2011-12-06T17:00:00,neutral,0.01,"Hey, guess how long Apple's had my laptop for now (the second time)? A week! How many times have they called me?"
+812,2011-12-06T17:00:00,neutral,0.01,@SheaR77 omg omg omg they don't have apple flavor! Wat do I do!!!?? #InAisleFreakOut
+813,2011-12-06T17:00:00,neutral,0.01,Feels like apple blossom weather not Christmas!
+814,2011-12-06T17:00:00,neutral,0.01,@HotgirlSwoRld: So apple pie just tried 2 charge me almost 45 to update my software kmsl I cursed them bitches out &lt;-- lol. str8 G.H.E.T.T.O
+815,2011-12-06T17:00:00,neutral,0.01,#NeverTrustAGirlThat Still wears Apple Bottom
+816,2011-12-06T17:00:00,neutral,0.01,@taetin Everyone deserves an Apple! :D Where did you buy?
+817,2011-12-06T17:00:00,neutral,0.01,#nevertrustagirl with an adams apple
+818,2011-12-06T17:00:00,neutral,0.01,'Tis the season for giving!@ksmalltn deserves a @MrsPrindables apple! #appleofmyeye
+819,2011-12-06T17:00:00,neutral,0.01,@kaylavines I wish I had an apple
+820,2011-12-06T17:00:00,neutral,0.01,"RT @whathifi: 7digital: ""iTunes in the UK has peaked. Apple's market share will drop in 2012."""
+821,2011-12-06T17:00:00,neutral,0.01,"RT @dinacoladaa: ""guys my mom didn't cut my apple, how am I supposed to eat it now"" - @JackieS20  #firstworldproblems"
+822,2011-12-06T17:00:00,neutral,0.01,Wow RT @GoHARDorSTFU: #NeverTrustAGirlThat has a bigger Adam's Apple than u
+823,2011-12-06T17:00:00,neutral,0.01,@GanNicholas awesome. Happy eating your apple!
+824,2011-12-06T17:00:00,neutral,0.01,"apple = elma , sapple = selma :))"
+825,2011-12-06T17:00:00,neutral,0.01,@liamrickerby @forquare yup.  Essentially the same RAM without the Apple sticker
+826,2011-12-06T17:00:00,neutral,0.01,@dat_boi_dro her Adams apple is bigger than urs!Lmao... Wendy Williams is a Man! Now I'm questioning ur sexuality Lls!
+827,2011-12-06T17:00:00,neutral,0.01,"So me and @bouttablow went to Apple Bees, waisted lastnight an hour before they closed. I bet they hated us. #dontcare"
+828,2011-12-06T17:00:00,neutral,0.01,RT @EmWatson: Hello New York! In the Big Apple doing some press for Deathly Hallows Part 1. It's going to be a busy week... Em x
+829,2011-12-06T17:00:00,neutral,0.01,@BOYo_OBYE that's apple for you
+830,2011-12-06T17:00:00,neutral,0.01,@apple_tiny oh..Are you in Pune now?
+831,2011-12-06T17:00:00,neutral,0.01,Tis the season for giving! @ladylisa1 deserves a @MrsPrindables apple! #appleofmyeye””
+832,2011-12-06T17:00:00,neutral,0.01,@goodfellow83 then it was time... I doubt Apple was wrong...
+833,2011-12-06T17:00:00,neutral,0.01,"Parents, or grandparents new to computers? Take them to the apple store and have them try out an IPAD."
+834,2011-12-06T17:00:00,neutral,0.01,Apple putting out an actual TV makes zero sense.  More likely is a robust Apple TV that can do more then the current generation.
+835,2011-12-06T17:00:00,neutral,0.01,"#NeverTrustAGirlThat still rocks Baby Phat, Apple Bottoms, Ecko Red, Pastrys, etc..."
+836,2011-12-06T17:00:00,neutral,0.01,#NeverTrustAGirlThat has an adams apple
+837,2011-12-06T17:00:00,neutral,0.01,"RT @jyarow: APPLE ON TRACK FOR JAPANESE SIRI NEXT YR, NIKKEI SAYS  (via Bloomberg)"
+838,2011-12-06T17:00:00,neutral,0.01,"RT @YGLvoices: My favourite quote of the day so far: ""That's Apple's marketing brilliance: they took nerds and re-branded them as genius ..."
+839,2011-12-06T17:00:00,neutral,0.01,@realDonaldTrump and it sucks...I feel as though I am one of them.  A nurse and a performer moving to the Big Apple to do better...sad...
+840,2011-12-06T17:00:00,neutral,0.01,"i fancy a granny smith apple, i dont even like apples all that much"
+841,2011-12-06T17:00:00,neutral,0.01,Loves apple and cinnamon by @RealUtadaHikaru
+842,2011-12-06T17:00:00,neutral,0.01,Thats the standard term i use when i walk into the #apple store and they ask what i want :) RT @PhilipBloom: specs of my imac? maxed out.
+843,2011-12-06T17:00:00,neutral,0.01,"Living off of pudding, apple sauce and soup. Kill me, I want a steak"
+844,2011-12-06T17:00:00,neutral,0.01,"APPLE ON TRACK FOR JAPANESE SIRI NEXT YR, NIKKEI SAYS  (via Bloomberg)"
+845,2011-12-06T17:00:00,neutral,0.01,Tis the season for giving! @burgmissy deserves a @MrsPrindables apple! #appleofmyeye
+846,2011-12-06T17:00:00,neutral,0.01,@dstewartmusic watch you don't choke eating like an apple or something x
+847,2011-12-06T17:00:00,neutral,0.01,una gorpia hay que da te RT @YouloveJessx3 I lost 3 apple headphones in less than a week!? Really Jess ?
+848,2011-12-06T17:00:00,neutral,0.01,Macro teach said if I get her the recipe to apple pie shell give me a B an I don't have to take the final.. Happy Birthday ta ME!
+849,2011-12-06T17:00:00,neutral,0.01,I ANT TALKIN BOUT APPLE BUT IMAC I ANT TALKIN BOUT LEGOS BUT I STACK HAD YO GIRL GETTIN NAKED ON MY I CKHAT
+850,2011-12-06T17:00:00,neutral,0.01,"I hit her up to say what up, she say ""the sky"". I say what's good, she say ""McDonalds Apple Pie""."
+851,2011-12-06T17:00:00,neutral,0.01,Tis the season for giving! @lag32583 deserves a @MrsPrindables apple! #appleofmyeye
+852,2011-12-06T17:00:00,neutral,0.01,Why tf is tyresha throwinn apple juice&&screaminn.....
+853,2011-12-06T17:00:00,neutral,0.01,@keder no on the apple core.
+854,2011-12-06T17:00:00,neutral,0.01,RT @MileyCyrus: @JakeCrumbine You're welcome :) Try it on a yummy green apple! Taste like apple pie :)
+855,2011-12-06T17:00:00,neutral,0.01,“@KamilleLeai Eve was the first hoe in history... Bitch sold herself for an apple”
+856,2011-12-06T17:00:00,neutral,0.01,"Apple is rumored to release a 7"" tablet early next year. #retweetthisrumor"
+857,2011-12-06T17:00:00,neutral,0.01,RT @AirryVega: sour apple bitter bitches we not fuggin with them!
+858,2011-12-06T17:00:00,neutral,0.01,Something about that apple cider isn't sitting well with my stomach.
+859,2011-12-06T17:00:00,neutral,0.01,"EU in antitrust probe of Apple, e-book publishers"
+860,2011-12-06T17:00:00,neutral,0.01,"@Goose_PW @beslowboy @apple_bonkers I can feel 3 transfers coming on, fighting the urge. What d'you reckon, AB? Should I take a 4 pt hit? ;)"
+861,2011-12-06T17:00:00,neutral,0.01,So apple pie just tried to charge me almost 45 to update my software kmsl I cursed them bitches out
+862,2011-12-06T17:00:00,neutral,0.01,"I be goin through to much gas, I live in Mpls, work in Apple Valley, and go to school in Eden Praire and BP.....Wtf was on my bird smh"
+863,2011-12-06T17:00:00,neutral,0.01,"@BrownSkinGeh I loveeee my baby, ur the apple of my eyes, u de make my ring oooooo!!!!!!!!"
+864,2011-12-06T17:00:00,neutral,0.01,@YazeeFelice I'll think about giving you an apple time capsule. Merry Christmas!
+865,2011-12-06T17:00:00,neutral,0.01,#YouKnowAFatPersonInvented the apple...
+866,2011-12-06T17:00:00,neutral,0.01,RT @mrsprindables: Follow to enter a loved one for their chance to win! -- 'Tis the season for giving! [@ _____] deserves a @MrsPrindabl ...
+867,2011-12-06T17:00:00,neutral,0.01,'Tis the season for giving! @burgmissy deserves a @MrsPrindables apple! #appleofmyeye”
+868,2011-12-06T17:00:00,neutral,0.01,I want some apple jacks.
+869,2011-12-06T17:00:00,neutral,0.01,#NeverTrustAGirlThat has a bigger Adam's Apple than u
+870,2011-12-06T17:00:00,neutral,0.01,"“@KamilleLeai Apples ain't even all that good tho...not even a   Peach, strawberry, a pineapple..... Ol basic ass apple loving hoe”"
+871,2011-12-06T17:00:00,neutral,0.01,"Steve Jobs #ThankGodForU without you we wouldnt have the iPod, iPad, MacBook or Apple Computers"
+872,2011-12-06T17:00:00,neutral,0.01,Apple jacks is the best cereal..
+873,2011-12-06T17:00:00,neutral,0.01,'Tis the season for giving! @suzietable deserves a @MrsPrindables apple! #appleofmyeye
+874,2011-12-06T17:00:00,neutral,0.01,@apple_lomo oh! yeah!!!!
+875,2011-12-06T17:00:00,neutral,0.01,"""everybody's kind of a rotten apple, in a way. no one's perfect."" -@SierraVE"
+876,2011-12-06T17:00:00,neutral,0.01,#NeverTrustAGirl with an Adams Apple...
+877,2011-12-06T17:00:00,neutral,0.01,Eating some fresh apple cinnamon oatmeal #brainfood
+878,2011-12-06T17:00:00,neutral,0.01,ive been sipping on this Smirnoff Ice Green Apple since 11am... this is not good lmao
+879,2011-12-06T17:00:00,neutral,0.01,'Tis the season for giving! @tiramisu8 deserves a @MrsPrindables apple! #appleofmyeye
+880,2011-12-06T17:00:00,neutral,0.01,@XDStanzXD @foodforlouis I ain't gagged at anything so far but the 3 month old rotten apple got me.. I was almost going to throw up
+881,2011-12-06T17:00:00,neutral,0.01,apple products are the cockroaches of electronics.
+882,2011-12-06T17:00:00,neutral,0.01,Apple juice&gt;&gt;&gt;&gt;&gt;
+883,2011-12-06T17:00:00,neutral,0.01,RT @TaylorPaton: mmmm apple juice :')
+884,2011-12-06T17:00:00,neutral,0.01,Apple trying to ban the world . Good luck then!
+885,2011-12-06T17:00:00,neutral,0.01,She the apple of my eye.
+886,2011-12-06T17:00:00,neutral,0.01,What happens if Apple actually reinvents the television?
+887,2011-12-06T17:00:00,neutral,0.01,I'm drinking apple juice.! Haha.
+888,2011-12-06T17:00:00,neutral,0.01,"Your the apple to my pie, your the straw to my berry, your the smoke to my high, and your the one i wanna marry.....were the perfect two!"
+889,2011-12-06T17:00:00,neutral,0.01,!!&gt; Gomadic Universal Charging Station for the Apple iPod 4G (40GB) and many other mobile devices - 2nd Generation Design - uses Gomadic Ti
+890,2011-12-06T17:00:00,neutral,0.01,"@k12daman aw naw then,, rite now its for the androids...but imm have the apple mobile app setup soon"
+891,2011-12-06T17:00:00,neutral,0.01,@mrsprindables Tis the season for giving! @reneej68 deserves a @MrsPrindables apple! #appleofmyeye
+892,2011-12-06T17:00:00,neutral,0.01,Just got an apple the size of a softball at lunch! #whoa
+893,2011-12-06T17:00:00,neutral,0.01,"RT @DariaDoom: @tryo1 Para drogas tienen el shopping, los smartphones, The walking man, twitter, facebook, apple..."
+894,2011-12-06T17:00:00,neutral,0.01,This apple is on point !
+895,2011-12-06T17:00:00,neutral,0.01,RT @mrsprindables: Follow to enter a loved one for their chance to win! -- 'Tis the season for giving! [@ _____] deserves a @MrsPrindabl ...
+896,2011-12-06T17:00:00,neutral,0.01,@Meli_mou Why are you teasing the donkey with an apple?
+897,2011-12-06T17:00:00,neutral,0.01,@ShannonWilbers HEY APPLE!!
+898,2011-12-06T17:00:00,neutral,0.01,RT @harryhornsey: Why are my messages sending as messages to people who have fucking iMessenger #apple #stupidfuckingiphone
+899,2011-12-06T17:00:00,neutral,0.01,@DomaniqueGrant. Of course! Some apple cider and alcohol who could ask for anything better!!!

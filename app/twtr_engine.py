@@ -1,3 +1,4 @@
+from datetime import timedelta
 import os
 import datetime as dt
 import pandas as pd
@@ -7,33 +8,41 @@ import yaml
 # global df of stock file
 stock_data = None
 
+# Hour of the day to get tweets from (24h)
+SAMPLE_HOUR = 17
+
 
 def twtr_engine():
     ticker = get_ticker_symbol()
     load_stock_data(ticker)
     company_name = get_company_name(ticker)
-    start_date, end_date = get_time_frame(ticker)
-    response = make_api_call(company_name, start_date, end_date)
-    log_response(ticker, response)
+    time_strata = get_time_strata(ticker)
+    for index, date in time_strata.iterrows():
+        response = make_api_call(company_name, date["date"])
+        log_response(ticker, response, date)
 
 
-def log_response(ticker, response):
-    with open(f"data/tweets/{ticker}_twt.csv", "a", encoding="utf-8") as csv:
-        csv.write("id,date,tweet\n")
-        for index, tweet in enumerate(response["data"]):
-            text = tweet['text'].replace('\n', "")
-            csv.write(f"{index},{tweet['created_at']},\"{text}\"\n")
+def log_response(ticker, response, date):
+    if (os.path.exists(f"data/tweets/{ticker}_twt.csv")):
+        output = pd.read_csv(f"data/tweets/{ticker}_twt.csv", index_col="id")
+    else:
+        output = pd.DataFrame(columns=["date", "class", "percent", "text"])
+
+    for index, tweet in enumerate(response["results"]):
+        text = tweet['text'].replace('\n', "")
+        new_record = {"date": date["date"].isoformat(), "class": date["class"],
+                      "percent": date["percent"], "text": text}
+        output = output.append(new_record, ignore_index=True)
+    output.to_csv(f"data/tweets/{ticker}_twt.csv", index_label="id")
 
 
-def make_api_call(company, start_date, end_date):
-    endpoint = "https://api.twitter.com/2/tweets/search/recent"
+def make_api_call(company, date):
+    endpoint = "https://api.twitter.com/1.1/tweets/search/fullarchive/full.json"
     auth = {"Authorization": f"Bearer {get_bearer_token()}"}
     request_parameters = {
-        "query": f"{company} lang:en",
-        "start_time": start_date.replace(tzinfo=dt.timezone.utc).isoformat(timespec="seconds"),
-        "end_time": end_date.replace(tzinfo=dt.timezone.utc).isoformat(timespec="seconds"),
-        "tweet.fields": "created_at",
-        "max_results": 10
+        "query": f"{company} lang: en -has:links -has:images -has:media",
+        "maxResults": 100,
+        "toDate": date.strftime("%Y%m%d%H%m")
     }
     response = requests.get(url=endpoint, params=request_parameters, headers=auth)
     print(response.text)
@@ -46,56 +55,23 @@ def get_bearer_token():
     return creds["bearer_token"]
 
 
-def get_time_frame(ticker):
-    # determine the earliest and latest dates.
-    twitter_start_date = dt.datetime(2006, 3, 21)
-    earliest_date = dt.datetime.fromisoformat(stock_data["Date"].min())
-    latest_date = dt.datetime.now()
+def get_time_strata(ticker):
+    # load a list of all the valid strata files
+    strata_files = os.listdir("data/strata")
 
-    # ensure earliest date is after the start of twitter
-    if (earliest_date < twitter_start_date):
-        earliest_date = twitter_start_date
-        print("\nData is available from before the start of Twitter, "
-              "using twitter's start date (2006-03-21) as a minimum.")
-    else:
-        print(f"Earliest data available: {earliest_date}.")
+    # ensure ticker has a strata record
+    if ticker not in (file[0:file.index("_")] for file in strata_files):
+        print(f"Could not find time strata for {ticker}.")
+        exit(0)
 
-    # collect from_date
-    print("\nEnter date range(enter for earliest_date -> today): ")
-    from_date = None
-    while(from_date is None):
-        print("Enter the date (yyyy-mm-dd) to start search from:")
-        try:
-            user_input = input()
-            if not user_input:
-                user_date = earliest_date
-            else:
-                user_date = dt.datetime.fromisoformat(user_input)
-        except Exception as e:
-            print(e)
-        if (user_date < earliest_date or user_date > latest_date):
-            print("Invalid start date")
-        else:
-            from_date = user_date
+    # retrieve the strata
+    time_strata = pd.read_csv(f"data/strata/{ticker}_strata.csv", parse_dates=["date"])
 
-    # collect to_date
-    to_date = None
-    while(to_date is None):
-        print("Enter the date (yyyy-mm-dd) to end search at:")
-        try:
-            user_input = input()
-            if not user_input:
-                user_date = latest_date
-            else:
-                user_date = dt.datetime.fromisoformat(user_input)
-        except Exception as e:
-            print(e)
-        if (user_date > latest_date or user_date < from_date):
-            print("Invalid end date")
-        else:
-            to_date = user_date
-    print(f"Selected time-range: {from_date} -> {to_date}")
-    return (from_date, to_date)
+    # report loaded strata
+    print("Loaded the following time strata:")
+    time_strata["date"] = time_strata["date"] + timedelta(hours=SAMPLE_HOUR)
+    print(time_strata[["class", "date", "percent"]])
+    return time_strata
 
 
 def get_company_name(ticker):
