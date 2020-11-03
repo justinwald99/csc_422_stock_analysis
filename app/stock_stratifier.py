@@ -6,15 +6,19 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as tick
 import pandas as pd
 
+# How many days ahead to compute the average of
 DAYS_AHEAD = 20
 TIME_DELTA = dt.timedelta(days=DAYS_AHEAD)
+# How many samples to take of each strata.
 TOP_N = 3
 TWITTER_START_DATE = dt.datetime(2007, 1, 1)
 
+# Usage validation
 if (len(sys.argv) != 2):
     print("Usage: python stock_stratifer.py [ticker]")
     exit(1)
 
+# Find stock history
 ticker = sys.argv[1]
 stock_history_files = os.listdir("data/stocks")
 tickers = list(pd.DataFrame([name[:-7] for name in stock_history_files], columns=["ticker"])["ticker"])
@@ -22,11 +26,13 @@ if ticker not in tickers:
     print("Ticker not found in files.")
     exit(1)
 
+# Read stock history
 data = pd.read_csv(f"data/stocks/{ticker}.us.txt")
 data["Date"] = pd.to_datetime(data["Date"])
 data = data.loc[data["Date"] > TWITTER_START_DATE]
 data.reset_index(inplace=True)
 
+# Graph historical data
 plt.gcf().set_size_inches([10, 5])
 plt.plot("Date", "Close", data=data)
 plt.title(f"Strata chart for {ticker} with average gains over next {DAYS_AHEAD} days.")
@@ -36,6 +42,7 @@ plt.gca().yaxis.set_major_formatter("${x}")
 
 avg_chng = pd.DataFrame(columns=["avg_inc", "day"])
 
+# Compute the rolling average change over a period of 20 days.
 for index, day in data[:-DAYS_AHEAD].iterrows():
     total_change = 0
     # Determine the average increase in the next DAYS_AHEAD.

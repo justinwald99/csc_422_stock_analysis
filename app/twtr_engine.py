@@ -1,6 +1,5 @@
 from datetime import timedelta
 import os
-import datetime as dt
 import pandas as pd
 import requests
 import yaml
