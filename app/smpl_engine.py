@@ -1,13 +1,14 @@
 # K-fold cross validation for the sentiment analysis
 # Collin Kersten (cakerste) & Zach Haas (zrhaas)
-from _csv import reader
 import csv
-from sklearn.cluster import KMeans
-from sklearn.cluster import DBSCAN
-from sklearn import preprocessing
-import numpy as np
 import os
+
+import numpy as np
+import pandas as pd
+from _csv import reader
 from matplotlib import pyplot as plt
+from sklearn import preprocessing
+from sklearn.cluster import DBSCAN, KMeans
 
 
 def intializeData(filename):
@@ -85,7 +86,22 @@ def plotData(matrix, labels, name):
     plt.xlabel("Standardized Number of Positive Tweets")
     plt.ylabel("Standardized Number of Negitive Tweets")
     print(matrix)
-    plt.show()
+    # plt.show()
+
+def log_data(model_type, matrix, labels, name):
+    ticker = name.replace("./data/sentiment/", "").replace("_stmt.csv", "")
+    if (os.path.exists(f"data/model/{ticker}_twt.csv", )):
+        output = pd.read_csv(f"data/model/{ticker}_twt.csv", index_col="id")
+    else:
+        output = pd.DataFrame(columns=["group", "percent_chg", "num_positive", "num_negative"])
+
+    for index, row in enumerate(matrix):
+        num_positive, num_negative, percent_chg = (*row,)
+        group = labels[index]
+        new_record = {"group": group, "percent_chg": percent_chg,
+                      "num_positive": num_positive, "num_negative": num_negative}
+        output = output.append(new_record, ignore_index=True)
+    output.to_csv(f"data/model/{ticker}_{model_type}.csv", index_label="id")
 
 #Start main
 path = './data/sentiment'
@@ -93,7 +109,7 @@ stmtDataFiles = []
 with os.scandir(path) as entries:
     for entry in entries:
         if entry.is_file() and entry.name != "sample.csv":
-            stmtDataFiles.append(path + "/" + entry.name)    
+            stmtDataFiles.append(path + "/" + entry.name)
 
 preProcMatrixs = list()
 for filename in stmtDataFiles:
@@ -102,7 +118,15 @@ for filename in stmtDataFiles:
 
 plotData(preProcMatrixs[-1], myKMean(preProcMatrixs[-1]), "Test")
 for i in range(len(preProcMatrixs)):
-    plotData(preProcMatrixs[i], myKMean(preProcMatrixs[i]), stmtDataFiles[i])
+    matrix = preProcMatrixs[i]
+    labels = myKMean(preProcMatrixs[i])
+    name = stmtDataFiles[i]
+    log_data("k_mean", matrix, labels, name)
+    plotData(matrix, labels, name)
 #mydbscan(preProcMatrixs[-1])
 for i in range(len(preProcMatrixs)):
-    plotData(preProcMatrixs[i], mydbscan(preProcMatrixs[i]), stmtDataFiles[i])
+    matrix = preProcMatrixs[i]
+    labels = mydbscan(preProcMatrixs[i])
+    name = stmtDataFiles[i]
+    log_data("db_scan", matrix, labels, name)
+    plotData(matrix, labels, name)
