@@ -3,9 +3,12 @@
 from _csv import reader
 import csv
 from sklearn.cluster import KMeans
+from sklearn.cluster import DBSCAN
 from sklearn import preprocessing
 import numpy as np
 import os
+from matplotlib import pyplot as plt
+
 
 def intializeData(filename):
     date = []
@@ -31,49 +34,72 @@ def intializeData(filename):
             stmtDic[row[0]][0] += 1
         else:
             stmtDic[row[0]][1] += 1
-        
-    finalMatrix = preprocessing.normalize(np.array(list(stmtDic.values())), axis= 0, norm='max')
-    print(finalMatrix)
+    finalMatrix = preprocessing.scale(np.array(list(stmtDic.values())), axis= 0)
     return finalMatrix
 
+def myKMean(data):
+    data = np.array(data)
+    kmeans = KMeans(n_clusters=3).fit(data)
+    return(kmeans.labels_)
+
+# DBSCAN
+def mydbscan(data):
+    data = np.array(data)
+    print(data)
+    db = DBSCAN(eps=0.9, min_samples=1).fit(data)
+    labels = db.labels_
+    print(labels)
+    n_clusters = len(set(labels)) - (1 if -1 in labels else 0)
+    n_noise = list(labels).count(-1)
+    print('Number of clusters: ', n_clusters)
+    print('Noise: ', n_noise)
+
+def mscatter(x,y,ax=None, m=None, **kw):
+    import matplotlib.markers as mmarkers
+    if not ax: ax=plt.gca()
+    sc = ax.scatter(x,y,**kw)
+    if (m is not None) and (len(m)==len(x)):
+        paths = []
+        for marker in m:
+            if isinstance(marker, mmarkers.MarkerStyle):
+                marker_obj = marker
+            else:
+                marker_obj = mmarkers.MarkerStyle(marker)
+            path = marker_obj.get_path().transformed(
+                        marker_obj.get_transform())
+            paths.append(path)
+        sc.set_paths(paths)
+    return sc
+
+def plotData(matrix, labels, name):
+    markers = ['o', 'v', 's', 'P', '^', 'x', '<' ,"D" , '>']
+    x,y,z = zip(*matrix)
+    m = list()
+    for label in labels:
+        m.append(markers[label])
+    fig, ax = plt.subplots()
+    scatter = mscatter(x,y, c=z, m=m, ax=ax, cmap="Greys", edgecolor="k")
+    plt.colorbar(scatter, label="Standardized Percent Stock Change")
+    plt.title(name)
+    plt.xlabel("Standardized Number of Positive Tweets")
+    plt.ylabel("Standardized Number of Negitive Tweets")
+    print(matrix)
+    plt.show()
+
+#Start main
 path = './data/sentiment'
 stmtDataFiles = []
 with os.scandir(path) as entries:
     for entry in entries:
         if entry.is_file() and entry.name != "sample.csv":
-            stmtDataFiles.append(path + "/" + entry.name)
+            stmtDataFiles.append(path + "/" + entry.name)    
 
 preProcMatrixs = list()
 for filename in stmtDataFiles:
-    print(filename)
     preProcMatrixs.append(intializeData(os.path.abspath(filename)))
 
 
-
-
-
-
-
-"""
-with open('model.csv', 'w') as output_file:
-    scores_file = csv.writer(output_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-    scores_file.writerow(scores)
-"""
-
-
-"""
-# Use 10 folds
-kfold = StratifiedKFold(n_splits=10)
-# Use KNN as the classifier
-knn = KNeighborsClassifier(n_neighbors=5)
-"""
-""" 
-for train_index, test_index in kfold.split(x, y):
-    x_train_fold = x[train_index]
-    x_test_fold = x[test_index]
-    y_train_fold = y[train_index]
-    y_test_fold = y[test_index]
-    knn.fit(x_train_fold, y_train_fold)
-    print('accuracy: ', knn.score(x_test_fold, y_test_fold))
-    scores.append(knn.score(x_test_fold, y_test_fold))
-"""
+plotData(preProcMatrixs[-1], myKMean(preProcMatrixs[-1]), "Test")
+for i in range(len(preProcMatrixs)):
+    plotData(preProcMatrixs[i], myKMean(preProcMatrixs[i]), stmtDataFiles[i])
+#mydbscan(preProcMatrixs[-1])
