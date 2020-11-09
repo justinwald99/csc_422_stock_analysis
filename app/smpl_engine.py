@@ -46,13 +46,14 @@ def myKMean(data):
 def mydbscan(data):
     data = np.array(data)
     print(data)
-    db = DBSCAN(eps=0.9, min_samples=1).fit(data)
+    db = DBSCAN(eps=0.9, min_samples=2).fit(data)
     labels = db.labels_
     print(labels)
     n_clusters = len(set(labels)) - (1 if -1 in labels else 0)
     n_noise = list(labels).count(-1)
-    print('Number of clusters: ', n_clusters)
-    print('Noise: ', n_noise)
+    #print('Number of clusters: ', n_clusters)
+    #print('Noise: ', n_noise)
+    return(labels)
 
 def mscatter(x,y,ax=None, m=None, **kw):
     import matplotlib.markers as mmarkers
@@ -103,3 +104,5 @@ plotData(preProcMatrixs[-1], myKMean(preProcMatrixs[-1]), "Test")
 for i in range(len(preProcMatrixs)):
     plotData(preProcMatrixs[i], myKMean(preProcMatrixs[i]), stmtDataFiles[i])
 #mydbscan(preProcMatrixs[-1])
+for i in range(len(preProcMatrixs)):
+    plotData(preProcMatrixs[i], mydbscan(preProcMatrixs[i]), stmtDataFiles[i])
